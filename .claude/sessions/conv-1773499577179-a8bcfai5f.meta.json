@@ -1,0 +1,22 @@
+{
+  "id": "conv-1773499577179-a8bcfai5f",
+  "title": "/login",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1773499577179,
+  "updatedAt": 1773500098361,
+  "lastResponseAt": 1773500090045,
+  "sessionId": "b1d2a23c-648a-43c2-8045-e956faa162a6",
+  "sdkSessionId": "b1d2a23c-648a-43c2-8045-e956faa162a6",
+  "previousSdkSessionIds": [
+    "9cb61e1d-1b9a-4ced-9913-96466b9c5fca"
+  ],
+  "usage": {
+    "model": "kimi-k2-thinking-turbo",
+    "inputTokens": 17489,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 17489,
+    "percentage": 9
+  }
+}

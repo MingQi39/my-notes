@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94586baa1c130d0f",
+        "id": "7af3d3bd9fd2002e",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a8d3bac23a3fb7",
+            "id": "d7225c9abcc080e3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,33 +173,50 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "93ea515af3e28d1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "pinned": true,
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "publish:发布更改": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
-      "githobs:Manage a github issue": false
+      "githobs:Manage a github issue": false,
+      "claudian:Open Claudian": false
     }
   },
-  "active": "b13ff2a078e91b29",
+  "active": "9e1a4b798c182e6c",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名",
+    "AI/1. 理论基础",
+    "AI",
     "未命名.base"
   ]
 }

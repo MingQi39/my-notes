@@ -1,0 +1,19 @@
+{
+  "id": "conv-1773499430848-tgq2dxtoq",
+  "title": "@AI/1",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1773499430848,
+  "updatedAt": 1773499565519,
+  "lastResponseAt": 1773499561005,
+  "sessionId": null,
+  "sdkSessionId": "ddbfe4ab-075a-45d2-aea4-5cfc9ada6e9a",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
