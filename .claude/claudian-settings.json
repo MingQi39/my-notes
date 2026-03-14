@@ -40,7 +40,7 @@
   },
   "permissionMode": "normal",
   "model": "kimi-k2-thinking-turbo",
-  "thinkingBudget": "low",
+  "thinkingBudget": "off",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
   "show1MModel": false,

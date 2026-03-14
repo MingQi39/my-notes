@@ -1,0 +1,19 @@
+{
+  "id": "conv-1773500356745-oj25h2a7h",
+  "title": "Fix Obsidian Git bad revision origin/main error",
+  "titleGenerationStatus": "success",
+  "createdAt": 1773500356746,
+  "updatedAt": 1773500426199,
+  "lastResponseAt": 1773500426199,
+  "sessionId": "f15efdf1-808c-44bb-8b4a-2a3726b3d9f1",
+  "sdkSessionId": "f15efdf1-808c-44bb-8b4a-2a3726b3d9f1",
+  "usage": {
+    "model": "kimi-k2-thinking-turbo",
+    "inputTokens": 18454,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 18454,
+    "percentage": 9
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conv-1773500225876-uvttem3ju",
+  "title": "3月14日 22:57",
+  "createdAt": 1773500225876,
+  "updatedAt": 1773500303198,
+  "lastResponseAt": 1773500236999,
+  "sessionId": "4e471b09-aaee-4b74-be86-d5ccdbaf45c7",
+  "sdkSessionId": "4e471b09-aaee-4b74-be86-d5ccdbaf45c7",
+  "usage": {
+    "model": "kimi-k2-thinking-turbo",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
