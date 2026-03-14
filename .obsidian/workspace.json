@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7af3d3bd9fd2002e",
+        "id": "c45a80fdae7f9ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "d7225c9abcc080e3",
+            "id": "30000cc594daa6ff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,9 +212,34 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "30000cc594daa6ff",
   "lastOpenFiles": [
-    "未命名.md",
+    "alibaba-easyexcel.md",
+    "airbnb-javascript.md",
+    "doocs-leetcode.md",
+    "realworld-apps-realworld.md",
+    "haizlin-fe-interview.md",
+    "BaiyanAlwaysOnline-Blog.md",
+    "snowzijun-vue-element-table.md",
+    "xiaozhu188-electron-vue-cloud-music.md",
+    "vianvio-FE-Companions.md",
+    "muwoo-blogs.md",
+    "mgbq-nx-admin.md",
+    "snabbdom-snabbdom.md",
+    "kamranahmedse-developer-roadmap.md",
+    "twentyhq-twenty.md",
+    "NervJS-taro.md",
+    "apache-maven.md",
+    "vuejs-vue.md",
+    "apache-tomcat.md",
+    "PanJiaChen-vue-admin-template.md",
+    "apache-echarts.md",
+    "facebook-react.md",
+    "electron-electron.md",
+    "dcloudio-uni-app.md",
+    "microsoft-TypeScript.md",
+    "nestjs-nest.md",
+    "expressjs-express.md",
     "未命名",
     "AI/1. 理论基础",
     "AI",
