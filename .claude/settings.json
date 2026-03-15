@@ -7,7 +7,9 @@
       "Bash(export FILTER_BRANCH_SQUELCH_WARNING=1)",
       "Bash(git commit:*)",
       "Bash(git rm:*)",
-      "Bash(git commi:*)"
+      "Bash(git commi:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)"
     ]
   }
 }
