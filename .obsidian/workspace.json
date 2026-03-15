@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c45a80fdae7f9ba8",
+        "id": "0ce55f74e7a384b1",
         "type": "tabs",
         "children": [
           {
-            "id": "30000cc594daa6ff",
+            "id": "4e45015bbae029e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001 AI/001. 理论基础/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "004.延申：能够使用工具的 AI"
             }
           }
         ]
@@ -191,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,8 +215,32 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "30000cc594daa6ff",
+  "active": "9e1a4b798c182e6c",
   "lastOpenFiles": [
+    "001 AI/001. 理论基础/001.生成式人工智能导论/003.提示工程.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/001.什么是生成式 AI.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/000.课程内容说明.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250727202456.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250727194659.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250729124026.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250728133854.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250728132008.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250728232846.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250728204112.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250731123312.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250728133923.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets/Pasted image 20250731133317.png",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/assets",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/010.Transformer 简介.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论/009.AI Agent.md",
+    "001 AI/001. 理论基础/001.生成式人工智能导论",
+    "001 AI/001. 理论基础/未命名",
     "未命名.md",
     "alibaba-easyexcel.md",
     "airbnb-javascript.md",
@@ -228,21 +255,9 @@
     "mgbq-nx-admin.md",
     "snabbdom-snabbdom.md",
     "kamranahmedse-developer-roadmap.md",
-    "twentyhq-twenty.md",
-    "NervJS-taro.md",
-    "apache-maven.md",
-    "vuejs-vue.md",
-    "apache-tomcat.md",
-    "PanJiaChen-vue-admin-template.md",
-    "apache-echarts.md",
-    "facebook-react.md",
-    "electron-electron.md",
-    "dcloudio-uni-app.md",
-    "microsoft-TypeScript.md",
-    "nestjs-nest.md",
     "未命名",
-    "AI/1. 理论基础",
-    "AI",
+    "001 AI/001. 理论基础",
+    "001 AI",
     "未命名.base"
   ]
 }
