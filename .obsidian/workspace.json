@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "19913405599efe67",
+        "id": "9f574131558e900d",
         "type": "tabs",
         "children": [
           {
-            "id": "b96e9c552044fd7c",
+            "id": "4782821711568132",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "terminal:terminal",
+              "type": "split-diff-view",
               "state": {
-                "terminal:terminal": {
-                  "cwd": "/Users/mingqi/Desktop/03-学习资料/hmq/my-notes",
-                  "focus": false,
-                  "profile": {
-                    "args": [
-                      "--login"
-                    ],
-                    "executable": "/bin/zsh",
-                    "followTheme": true,
-                    "name": "",
-                    "platforms": {
-                      "darwin": true
-                    },
-                    "pythonExecutable": "python3",
-                    "restoreHistory": false,
-                    "rightClickAction": "copyPaste",
-                    "successExitCodes": [
-                      "0",
-                      "SIGINT",
-                      "SIGTERM"
-                    ],
-                    "terminalOptions": {
-                      "documentOverride": null
-                    },
-                    "type": "integrated",
-                    "useWin32Conhost": true
-                  },
-                  "serial": null
-                }
+                "aFile": ".obsidian/plugins/terminal/styles.css",
+                "bFile": ".obsidian/plugins/terminal/styles.css",
+                "aRef": "9ae73e49ff6c9a2a68755c3fa220c1f495f0cb92^",
+                "bRef": "9ae73e49ff6c9a2a68755c3fa220c1f495f0cb92"
               },
-              "pinned": true,
-              "icon": "terminal",
-              "title": "终端：mingqi@MacBookPro:~/Desktop/03-学习资料/hmq/my-notes"
+              "icon": "diff",
+              "title": "Diff: styles.css (9ae73e4)"
             }
           }
         ]
@@ -177,16 +150,6 @@
             }
           },
           {
-            "id": "1624ad3a7496cece",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {},
-              "icon": "lucide-file-signature",
-              "title": "脚注"
-            }
-          },
-          {
             "id": "815741defb59499f",
             "type": "leaf",
             "state": {
@@ -207,13 +170,75 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "905373059099667f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "pinned": true,
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "b96e9c552044fd7c",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/mingqi/Desktop/03-学习资料/hmq/my-notes",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：✳ Claude Code"
+            }
+          },
+          {
+            "id": "734893b78d823e21",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 799.5
+    "width": 537.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +259,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b96e9c552044fd7c",
+  "active": "815741defb59499f",
   "lastOpenFiles": [
     "airbnb-javascript.md",
     "haizlin-fe-interview.md",

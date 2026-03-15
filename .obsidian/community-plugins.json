@@ -3,5 +3,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "claudian",
-  "terminal"
+  "terminal",
+  "calendar",
+  "obsidian-version-history-diff"
 ]
