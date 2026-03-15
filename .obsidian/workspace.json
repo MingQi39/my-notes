@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea3589878f4878cc",
+        "id": "c801419b8c57ee0b",
         "type": "tabs",
         "children": [
           {
-            "id": "4f47981b08625108",
+            "id": "8cab8bfe12dc2701",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,16 +155,6 @@
             }
           },
           {
-            "id": "b13ff2a078e91b29",
-            "type": "leaf",
-            "state": {
-              "type": "github-issue-controls-view",
-              "state": {},
-              "icon": "github",
-              "title": "Github Issue Controls"
-            }
-          },
-          {
             "id": "815741defb59499f",
             "type": "leaf",
             "state": {
@@ -187,11 +177,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 799.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,14 +201,35 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "8cab8bfe12dc2701",
   "lastOpenFiles": [
-    "001.AI/001.理论基础/001.生成式人工智能导论/000.课程内容说明.md",
+    "airbnb-javascript.md",
+    "haizlin-fe-interview.md",
+    "BaiyanAlwaysOnline-Blog.md",
+    "snowzijun-vue-element-table.md",
+    "xiaozhu188-electron-vue-cloud-music.md",
+    "vianvio-FE-Companions.md",
+    "muwoo-blogs.md",
+    "realworld-apps-realworld.md",
+    "mgbq-nx-admin.md",
+    "snabbdom-snabbdom.md",
+    "kamranahmedse-developer-roadmap.md",
+    "twentyhq-twenty.md",
+    "NervJS-taro.md",
+    "apache-maven.md",
+    "vuejs-vue.md",
+    "doocs-leetcode.md",
+    "apache-tomcat.md",
+    "PanJiaChen-vue-admin-template.md",
+    "apache-echarts.md",
+    "facebook-react.md",
+    "electron-electron.md",
+    "dcloudio-uni-app.md",
+    "microsoft-TypeScript.md",
+    "nestjs-nest.md",
+    "expressjs-express.md",
+    "ElemeFE-element.md",
     "002.前端",
-    "001.AI/001.理论基础/001.生成式人工智能导论/001.什么是生成式 AI.md",
-    "001.AI/001.理论基础/001.生成式人工智能导论/003.提示工程.md",
-    "001.AI/001.理论基础/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
-    "001.AI/001.理论基础/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
     "001.AI/001.理论基础/001.生成式人工智能导论/assets/Pasted image 20250727202456.png",
     "001.AI/001.理论基础/001.生成式人工智能导论/assets/Pasted image 20250727194659.png",
     "001.AI/001.理论基础/001.生成式人工智能导论/assets/Pasted image 20250729124026.png",
@@ -230,28 +241,8 @@
     "001.AI/001.理论基础/001.生成式人工智能导论/assets/Pasted image 20250728133923.png",
     "001.AI/001.理论基础/001.生成式人工智能导论/assets/Pasted image 20250731133317.png",
     "001.AI/001.理论基础/001.生成式人工智能导论/assets",
-    "001.AI/001.理论基础/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
-    "001.AI/001.理论基础/001.生成式人工智能导论/010.Transformer 简介.md",
-    "001.AI/001.理论基础/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
-    "001.AI/001.理论基础/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
-    "001.AI/001.理论基础/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
-    "001.AI/001.理论基础/001.生成式人工智能导论/009.AI Agent.md",
     "001.AI/001.理论基础/001.生成式人工智能导论",
     "001 AI/001. 理论基础/未命名",
-    "未命名.md",
-    "alibaba-easyexcel.md",
-    "airbnb-javascript.md",
-    "doocs-leetcode.md",
-    "realworld-apps-realworld.md",
-    "haizlin-fe-interview.md",
-    "BaiyanAlwaysOnline-Blog.md",
-    "snowzijun-vue-element-table.md",
-    "xiaozhu188-electron-vue-cloud-music.md",
-    "vianvio-FE-Companions.md",
-    "muwoo-blogs.md",
-    "mgbq-nx-admin.md",
-    "snabbdom-snabbdom.md",
-    "kamranahmedse-developer-roadmap.md",
     "001.AI/001.理论基础",
     "001.AI",
     "未命名.base"

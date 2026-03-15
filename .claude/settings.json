@@ -9,7 +9,9 @@
       "Bash(git rm:*)",
       "Bash(git commi:*)",
       "Bash(git config:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(curl -s https://raw.githubusercontent.com/phibr0/obsidian-github/main/README.md)",
+      "WebSearch"
     ]
   }
 }
