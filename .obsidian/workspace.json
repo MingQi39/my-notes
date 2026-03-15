@@ -4,17 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "c801419b8c57ee0b",
+        "id": "19913405599efe67",
         "type": "tabs",
         "children": [
           {
-            "id": "8cab8bfe12dc2701",
+            "id": "b96e9c552044fd7c",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/mingqi/Desktop/03-学习资料/hmq/my-notes",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "pinned": true,
+              "icon": "terminal",
+              "title": "终端：mingqi@MacBookPro:~/Desktop/03-学习资料/hmq/my-notes"
             }
           }
         ]
@@ -177,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -198,10 +230,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
       "githobs:Manage a github issue": false,
-      "claudian:Open Claudian": false
+      "claudian:Open Claudian": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "b96e9c552044fd7c",
   "lastOpenFiles": [
     "airbnb-javascript.md",
     "haizlin-fe-interview.md",
