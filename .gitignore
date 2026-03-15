@@ -1,0 +1,5 @@
+.DS_Store
+.obsidian/workspace.json
+.obsidian/plugins/github/data.json
+.obsidian/plugins/githobs/data.json
+.claude/sessions/*.json
