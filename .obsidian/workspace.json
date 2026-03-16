@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001.前端/001.React/001.官方文档/001.React/001.Hooks.md",
+                "file": "001.前端/001.React/001.官方文档/001.React/003.APIs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.Hooks"
+              "title": "003.APIs"
             }
           }
         ]
@@ -260,6 +260,7 @@
   },
   "active": "4af2e4701d5ee9b7",
   "lastOpenFiles": [
+    "001.前端/001.React/001.官方文档/001.React/002.Components.md",
     "001.前端/001.React/001.官方文档/001.React/001.Hooks.md",
     "001.前端/006.AI实践/002.SNP2 传输协议接入指南.md",
     "001.前端/006.AI实践/001.AI Agent 驱动的前端 UI 框架设计文档.md",
@@ -304,7 +305,6 @@
     "006.工具/003.Obsidian/002.代码块.md",
     "001.前端/005.网络/assets/安全层.png",
     "001.前端/005.网络/assets/长轮询.svg",
-    "001.前端/005.网络/005.JWT.md",
-    "001.前端/005.网络/024.小知识-localhost 设置二级域名.md"
+    "001.前端/005.网络/005.JWT.md"
   ]
 }
