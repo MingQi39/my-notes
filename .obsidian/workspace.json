@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca0b79214f655e2",
+        "id": "5ed573ba37846f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ca7d5fcb243600",
+            "id": "14b5da964fd0d3f1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -254,8 +254,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9e1a4b798c182e6c",
+  "active": "14b5da964fd0d3f1",
   "lastOpenFiles": [
+    "001.前端/006.AI实践/002.SNP2 传输协议接入指南.md",
+    "001.前端/006.AI实践/001.AI Agent 驱动的前端 UI 框架设计文档.md",
+    "001.前端/006.AI实践/assets/Pasted image 20260305145123.png",
+    "001.前端/006.AI实践/assets/Pasted image 20260305144859.png",
+    "001.前端/006.AI实践/assets",
+    "001.前端/006.AI实践",
+    "001.前端/001.SNP/assets/Pasted image 20260305145123.png",
+    "001.前端/001.SNP/assets/Pasted image 20260305144859.png",
+    "001.前端/001.SNP/assets",
+    "001.前端/001.SNP/001.AI Agent 驱动的前端 UI 框架设计文档.md",
+    "001.前端/001.SNP/002.SNP2 传输协议接入指南.md",
+    "001.前端/001.SNP",
     "003.工具/003.Obsidian/002.代码块.md",
     "003.工具/003.Obsidian/001.Callouts.md",
     "003.工具/002.Markdown/003.Mermaid.md",
@@ -276,31 +288,18 @@
     "003.工具",
     "006.工具/002.Markdown/assets/Pasted image 20231120100345.png",
     "006.工具/002.Markdown/assets/Pasted image 20231120100141.png",
-    "006.工具/002.Markdown/assets",
     "006.工具/002.Markdown/003.Mermaid.md",
     "006.工具/002.Markdown/002.markdown中如何写代码.md",
     "006.工具/002.Markdown/001.markdown公式.md",
-    "006.工具/002.Markdown",
     "006.工具/004.其他/002.笔记常用字符.md",
     "006.工具/004.其他/001.glob 模式匹配.md",
-    "006.工具/004.其他",
     "006.工具/001.Git/002.commit message 规范.md",
     "006.工具/001.Git/001.常见操作.md",
-    "006.工具/001.Git",
     "006.工具/003.Obsidian/001.Callouts.md",
     "006.工具/003.Obsidian/002.代码块.md",
     "001.前端/005.网络/assets/安全层.png",
     "001.前端/005.网络/assets/长轮询.svg",
-    "001.前端/005.网络/assets/短轮询.svg",
-    "001.前端/005.网络/assets/⼆进制分帧层.png",
-    "001.前端/005.网络/assets/分片上传.svg",
-    "001.前端/005.网络/assets/下载断点续传.svg",
     "001.前端/005.网络/005.JWT.md",
-    "001.前端/005.网络/024.小知识-localhost 设置二级域名.md",
-    "001.前端/005.网络/023.反爬虫.md",
-    "001.前端/005.网络/022.网络性能优化.md",
-    "001.前端/005.网络/021.浏览器输入 URL 地址后.md",
-    "001.前端/005.网络/020.Streamable HTTP.md",
-    "001.前端/005.网络/019.Server-Sent Events.md"
+    "001.前端/005.网络/024.小知识-localhost 设置二级域名.md"
   ]
 }
