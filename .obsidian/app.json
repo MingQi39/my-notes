@@ -1,8 +1,12 @@
 {
   "promptDelete": false,
   "strictLineBreaks": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "cssThemeFiles": [
+    ".obsidian/snippets/content-margin.css"
+  ],
+  "readableLineLength": false
 }

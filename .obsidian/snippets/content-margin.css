@@ -1,0 +1,11 @@
+/* 禁用可读行长度限制，让内容占满整个屏幕 */
+.markdown-preview-view .markdown-preview-sizer {
+  max-width: none !important;
+  padding-left: 16px !important;
+  padding-right: 16px !important;
+}
+
+/* 编辑器模式调整 */
+.markdown-reading-view .markdown-preview-view {
+  padding: 0 !important;
+}
