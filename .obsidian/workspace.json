@@ -11,14 +11,14 @@
             "id": "a9da63b93587a366",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
-                "aRef": ""
+                "file": "002.AI/001.理论基础/002.吴恩达机器学习/001.机器学习/005.多元线性回归.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: appearance.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "005.多元线性回归"
             }
           }
         ]
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "002.AI/001.理论基础/002.吴恩达机器学习/001.机器学习/005.多元线性回归.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "005.多元线性回归 的大纲"
             }
           },
           {
