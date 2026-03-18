@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8db670576cd367f1",
+        "id": "6939468067b188b0",
         "type": "tabs",
         "children": [
           {
-            "id": "6a29dc8ade6f7f3c",
+            "id": "da0892e004f2a4a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Working Tree)"
             }
           }
         ]
@@ -251,11 +255,15 @@
       "obsidian-git:Open Git source control": false,
       "githobs:Manage a github issue": false,
       "claudian:Open Claudian": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "da0892e004f2a4a1",
   "lastOpenFiles": [
+    "my-digital-garden",
+    "conflict-files-obsidian-git.md",
+    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "002.AI/001.理论基础/001.生成式人工智能导论/009.AI Agent.md",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250727202456.png",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250727194659.png",
@@ -271,7 +279,6 @@
     "002.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
     "002.AI/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
     "002.AI/001.生成式人工智能导论/010.Transformer 简介.md",
-    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "002.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
     "002.AI/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
     "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
@@ -293,8 +300,6 @@
     "001.前端/013.综合/011.用户无操作监测方案.md",
     "001.前端/013.综合/010.应用更新通知策略.md",
     "001.前端/013.综合/009.前端代码保护.md",
-    "001.前端/013.综合/008.B 站前端错误监控实践.md",
-    "001.前端/013.综合/007.前端监控.md",
     "001.前端/013.综合",
     "001.前端/012.开源库/assets",
     "001.前端/012.开源库",
