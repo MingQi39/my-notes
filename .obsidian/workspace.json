@@ -11,10 +11,14 @@
             "id": "8810747f3995a19c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "002.AI/未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002.AI/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002.AI/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/Drawing 2026-03-18 11.42.12.excalidraw.md",
+                "file": "002.AI/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Drawing 2026-03-18 11.42.12.excalidraw 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -255,10 +261,11 @@
       "mxmind:Mxmind": false
     }
   },
-  "active": "9e1a4b798c182e6c",
+  "active": "8810747f3995a19c",
   "lastOpenFiles": [
-    "002.AI/未命名 1.md",
     "002.AI/Drawing 2026-03-18 11.42.12.excalidraw.md",
+    "002.AI/未命名.md",
+    "002.AI/未命名 1.md",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803135434.png",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803134622.png",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803134033.png",
@@ -296,7 +303,6 @@
     "001.前端/013.综合/011.用户无操作监测方案.md",
     "001.前端/013.综合/010.应用更新通知策略.md",
     "001.前端/013.综合/009.前端代码保护.md",
-    "001.前端/013.综合/008.B 站前端错误监控实践.md",
     "001.前端/013.综合",
     "001.前端/012.开源库/assets",
     "001.前端/012.开源库",
