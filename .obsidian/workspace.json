@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002.AI/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002.AI/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "002.AI/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -247,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1094.5
+    "width": 795.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +271,7 @@
       "mxmind:Mxmind": false
     }
   },
-  "active": "5092993b44ff89eb",
+  "active": "8810747f3995a19c",
   "lastOpenFiles": [
     "002.AI/未命名.md",
     "002.AI/Drawing 2026-03-18 11.42.12.excalidraw.md",
