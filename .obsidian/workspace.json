@@ -11,10 +11,14 @@
             "id": "bc0fa81981b7832e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名 1"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "未命名 1 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "未命名 1 的出链列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 1 的大纲"
             }
           },
           {
@@ -253,8 +260,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "bc0fa81981b7832e",
   "lastOpenFiles": [
+    "未命名 1.md",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803135434.png",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803134622.png",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803134033.png",
@@ -265,7 +273,6 @@
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250802230019.png",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250801211715.png",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250801211535.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250801210435.png",
     "002.AI/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
     "002.AI/001.生成式人工智能导论/010.Transformer 简介.md",
     "002.AI/001.生成式人工智能导论/009.AI Agent.md",
