@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5d4f525da37e76c",
+            "id": "00f93afa77bbee61",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -233,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.5,
-    "collapsed": true
+    "width": 626.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,12 +255,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a5d4f525da37e76c",
+  "active": "00f93afa77bbee61",
   "lastOpenFiles": [
     "002.AI/大模型职业发展与学习路径指南.md",
     "index.md",
-    "my-digital-garden",
     "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
+    "my-digital-garden",
     "002.AI/未命名.md",
     "未命名.md",
     "002.AI/Drawing 2026-03-18 11.42.12.excalidraw.md",
