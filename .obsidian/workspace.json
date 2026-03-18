@@ -1,0 +1,311 @@
+{
+  "main": {
+    "id": "69f0453ab9b572d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6939468067b188b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da0892e004f2a4a1",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Working Tree)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8939741fc8b7855e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5718d2918a012fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e1a4b798c182e6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4807ad819cd4dc7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d475376815cab720",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "7182bae17f9f03f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f50428c26f9d5e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c77fe2682db50ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "c10d589ff68a510a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "2fef5d8804faf1f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d427240de4e8bac8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "815741defb59499f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "93ea515af3e28d1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "pinned": true,
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "905373059099667f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "pinned": true,
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "b96e9c552044fd7c",
+            "type": "leaf",
+            "state": {
+              "type": "terminal:terminal",
+              "state": {
+                "terminal:terminal": {
+                  "cwd": "/Users/mingqi/Desktop/03-学习资料/hmq/my-notes",
+                  "focus": false,
+                  "profile": {
+                    "args": [
+                      "--login"
+                    ],
+                    "executable": "/bin/zsh",
+                    "followTheme": true,
+                    "name": "",
+                    "platforms": {
+                      "darwin": true
+                    },
+                    "pythonExecutable": "python3",
+                    "restoreHistory": false,
+                    "rightClickAction": "copyPaste",
+                    "successExitCodes": [
+                      "0",
+                      "SIGINT",
+                      "SIGTERM"
+                    ],
+                    "terminalOptions": {
+                      "documentOverride": null
+                    },
+                    "type": "integrated",
+                    "useWin32Conhost": true
+                  },
+                  "serial": null
+                }
+              },
+              "icon": "terminal",
+              "title": "终端：mingqi@MacBookPro:~/Desktop/03-学习资料/hmq/my-notes"
+            }
+          },
+          {
+            "id": "734893b78d823e21",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 537.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "githobs:Manage a github issue": false,
+      "claudian:Open Claudian": false,
+      "terminal:Open terminal": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "da0892e004f2a4a1",
+  "lastOpenFiles": [
+    "my-digital-garden",
+    "conflict-files-obsidian-git.md",
+    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
+    "002.AI/001.理论基础/001.生成式人工智能导论/009.AI Agent.md",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250727202456.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250727194659.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250729124026.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728133854.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728132008.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728232846.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728204112.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250731123312.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728133923.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250731133317.png",
+    "002.AI/001.生成式人工智能导论/assets",
+    "002.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
+    "002.AI/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
+    "002.AI/001.生成式人工智能导论/010.Transformer 简介.md",
+    "002.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
+    "002.AI/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
+    "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
+    "002.AI/001.生成式人工智能导论/003.提示工程.md",
+    "002.AI/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
+    "002.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
+    "002.AI/001.生成式人工智能导论/009.AI Agent.md",
+    "002.AI/001.生成式人工智能导论",
+    "001.前端/013.综合/assets",
+    "001.前端/013.综合/020.网页复杂度指标 WCI.md",
+    "001.前端/013.综合/019.浏览器翻译可能引发的页面问题.md",
+    "001.前端/013.综合/018.我将封装史上最优雅的 Axios.md",
+    "001.前端/013.综合/017.网页渲染方案.md",
+    "001.前端/013.综合/016.Base64.md",
+    "001.前端/013.综合/015.PDF reader and annotator.md",
+    "001.前端/013.综合/014.中台 VS. 后台.md",
+    "001.前端/013.综合/013.Web 动画知多少.md",
+    "001.前端/013.综合/012.网页字体度量及渲染.md",
+    "001.前端/013.综合/011.用户无操作监测方案.md",
+    "001.前端/013.综合/010.应用更新通知策略.md",
+    "001.前端/013.综合/009.前端代码保护.md",
+    "001.前端/013.综合",
+    "001.前端/012.开源库/assets",
+    "001.前端/012.开源库",
+    "001.前端/011.前端架构/002.Headless UI/assets",
+    "001.前端/011.前端架构/002.Headless UI",
+    "001.前端/011.前端架构/001.前端架构师之路",
+    "001.前端/011.前端架构"
+  ]
+}
