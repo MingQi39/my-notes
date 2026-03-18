@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6939468067b188b0",
+        "id": "fdfddda575fe1d52",
         "type": "tabs",
         "children": [
           {
-            "id": "da0892e004f2a4a1",
+            "id": "bc0fa81981b7832e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 285.5
   },
   "right": {
     "id": "7182bae17f9f03f1",
@@ -219,7 +215,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "终端：mingqi@MacBookPro:~/Desktop/03-学习资料/hmq/my-notes"
+              "title": "终端：zsh"
             }
           },
           {
@@ -228,8 +224,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -237,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 537.5
+    "width": 282.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,40 +249,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
-      "githobs:Manage a github issue": false,
       "claudian:Open Claudian": false,
-      "terminal:Open terminal": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "terminal:Open terminal": false
     }
   },
-  "active": "da0892e004f2a4a1",
+  "active": "815741defb59499f",
   "lastOpenFiles": [
-    "my-digital-garden",
-    "conflict-files-obsidian-git.md",
-    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
-    "002.AI/001.理论基础/001.生成式人工智能导论/009.AI Agent.md",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250727202456.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250727194659.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250729124026.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728133854.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728132008.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728232846.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728204112.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250731123312.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728133923.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250731133317.png",
-    "002.AI/001.生成式人工智能导论/assets",
-    "002.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
-    "002.AI/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
-    "002.AI/001.生成式人工智能导论/010.Transformer 简介.md",
-    "002.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803135434.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803134622.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803134033.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803133706.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803133151.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803132838.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803114708.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250802230019.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250801211715.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250801211535.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250801210435.png",
     "002.AI/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
-    "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
+    "002.AI/001.生成式人工智能导论/010.Transformer 简介.md",
+    "002.AI/001.生成式人工智能导论/009.AI Agent.md",
+    "002.AI/001.生成式人工智能导论/assets",
     "002.AI/001.生成式人工智能导论/003.提示工程.md",
     "002.AI/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
     "002.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
-    "002.AI/001.生成式人工智能导论/009.AI Agent.md",
+    "002.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
+    "002.AI/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
+    "002.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
+    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
+    "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
     "002.AI/001.生成式人工智能导论",
+    "002.AI",
     "001.前端/013.综合/assets",
     "001.前端/013.综合/020.网页复杂度指标 WCI.md",
     "001.前端/013.综合/019.浏览器翻译可能引发的页面问题.md",
@@ -300,12 +293,13 @@
     "001.前端/013.综合/011.用户无操作监测方案.md",
     "001.前端/013.综合/010.应用更新通知策略.md",
     "001.前端/013.综合/009.前端代码保护.md",
+    "001.前端/013.综合/008.B 站前端错误监控实践.md",
+    "001.前端/013.综合/007.前端监控.md",
     "001.前端/013.综合",
     "001.前端/012.开源库/assets",
     "001.前端/012.开源库",
     "001.前端/011.前端架构/002.Headless UI/assets",
     "001.前端/011.前端架构/002.Headless UI",
-    "001.前端/011.前端架构/001.前端架构师之路",
-    "001.前端/011.前端架构"
+    "001.前端/011.前端架构/001.前端架构师之路"
   ]
 }
