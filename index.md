@@ -1,12 +1,12 @@
 ---
-title: 我的数字花园
+title: 侯明琦的个人网站
 date: 2024-01-01T00:00:00+08:00
 tags: [gardenEntry]
 ---
 
-# 欢迎来到我的数字花园 🌱
+# 侯明琦的个人网站
 
-这里是我用 Obsidian 构建的个人知识库，记录了我在前端开发、AI 技术、工具使用等领域的学习与思考。
+你好，我是侯明琦。这里是个人知识库，记录了我在前端开发、AI 技术、工具使用等领域的学习与思考。
 
 ## 📚 知识分类
 
@@ -29,8 +29,7 @@ tags: [gardenEntry]
 ## 🔗 相关链接
 
 - [GitHub 仓库](https://github.com/MingQi39/my-notes)
-- [搭建日志](https://github.com/MingQi39/my-digital-garden)
 
 ---
 
-> 这个花园会持续生长，欢迎常回来看看！
+> 欢迎常回来看看！

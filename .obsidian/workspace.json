@@ -233,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 626.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,7 +256,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "a5d4f525da37e76c",
   "lastOpenFiles": [
     "002.AI/大模型职业发展与学习路径指南.md",
     "index.md",
