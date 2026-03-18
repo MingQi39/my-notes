@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002.AI/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002.AI/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -234,13 +231,23 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "5092993b44ff89eb",
+            "type": "leaf",
+            "state": {
+              "type": "mxmind-view",
+              "state": {},
+              "icon": "network",
+              "title": "Mxmind"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 1094.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,10 +268,10 @@
       "mxmind:Mxmind": false
     }
   },
-  "active": "8810747f3995a19c",
+  "active": "5092993b44ff89eb",
   "lastOpenFiles": [
-    "002.AI/Drawing 2026-03-18 11.42.12.excalidraw.md",
     "002.AI/未命名.md",
+    "002.AI/Drawing 2026-03-18 11.42.12.excalidraw.md",
     "002.AI/未命名 1.md",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803135434.png",
     "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803134622.png",
