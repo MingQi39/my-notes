@@ -1,13 +1,12 @@
 {
   "id": "conv-1773500356745-oj25h2a7h",
-  "title": "The user's request is just \"qqq\". This is uncle...",
+  "title": "Configure environment for Kimi K2 thinking turb...",
   "titleGenerationStatus": "success",
   "createdAt": 1773500356746,
-  "updatedAt": 1773715297280,
-  "lastResponseAt": 1773714868157,
+  "updatedAt": 1773810943404,
+  "lastResponseAt": 1773810929139,
   "sessionId": "f15efdf1-808c-44bb-8b4a-2a3726b3d9f1",
   "sdkSessionId": "f15efdf1-808c-44bb-8b4a-2a3726b3d9f1",
-  "currentNote": "001.前端/001.React/001.官方文档/001.React/003.APIs.md",
   "usage": {
     "model": "kimi-k2-thinking-turbo",
     "inputTokens": 18454,

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4be1f41d9c76d9db",
+        "id": "524b42e02961f3c3",
         "type": "tabs",
         "children": [
           {
-            "id": "19b98666f3510e94",
+            "id": "a5d4f525da37e76c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -233,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 626.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,12 +251,16 @@
       "obsidian-git:Open Git source control": false,
       "claudian:Open Claudian": false,
       "terminal:Open terminal": false,
-      "mxmind:Mxmind": false
+      "mxmind:Mxmind": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
     "002.AI/大模型职业发展与学习路径指南.md",
+    "index.md",
+    "my-digital-garden",
+    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "002.AI/未命名.md",
     "未命名.md",
     "002.AI/Drawing 2026-03-18 11.42.12.excalidraw.md",
@@ -281,7 +285,6 @@
     "002.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
     "002.AI/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
     "002.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
-    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
     "002.AI/001.生成式人工智能导论",
     "002.AI",
@@ -295,12 +298,10 @@
     "001.前端/013.综合/014.中台 VS. 后台.md",
     "001.前端/013.综合/013.Web 动画知多少.md",
     "001.前端/013.综合/012.网页字体度量及渲染.md",
-    "001.前端/013.综合/011.用户无操作监测方案.md",
     "001.前端/013.综合",
     "001.前端/012.开源库/assets",
     "001.前端/012.开源库",
     "001.前端/011.前端架构/002.Headless UI/assets",
-    "001.前端/011.前端架构/002.Headless UI",
-    "001.前端/011.前端架构/001.前端架构师之路"
+    "001.前端/011.前端架构/002.Headless UI"
   ]
 }

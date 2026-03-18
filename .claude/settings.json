@@ -11,7 +11,8 @@
       "Bash(git config:*)",
       "Bash(git add:*)",
       "Bash(curl -s https://raw.githubusercontent.com/phibr0/obsidian-github/main/README.md)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(cat .git/config | grep -A 2 '\\\\[remote \"origin\"\\\\]')"
     ]
   }
 }
