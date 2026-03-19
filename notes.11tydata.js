@@ -36,6 +36,9 @@ module.exports = () => {
   return {
     layout: "layouts/note.njk",
     tags: ["note"],
+    eleventyComputed: {
+      mindmapPlugin: (data) => data["mindmap-plugin"] || data.mindmapPlugin || "",
+    },
     permalink: (data) => {
       const stem = data?.page?.filePathStem || "";
       const rel = stem.replace(/^\/notes\//, "");
