@@ -12,15 +12,15 @@ layout: layouts/index.njk
 
 ## 📚 知识分类
 
-### 1. 前端开发 ([[001.前端/index|001.前端]])
+### 1. 前端开发 
 
 涵盖 HTML、CSS、JavaScript、TypeScript、浏览器原理、网络协议、前端框架（React/Vue）、工程化、性能优化、开发规范等核心知识。
 
-### 2. AI 技术 ([[002.AI/index|002.AI]])
+### 2. AI 技术
 
 主要记录生成式人工智能相关的学习笔记，包括大语言模型原理、提示工程、Transformer 架构等。
 
-### 3. 工具使用 ([[003.工具/index|003.工具]])
+### 3. 工具使用 
 
 包含 Git 版本控制、Markdown 写作、Obsidian 使用技巧以及其他开发工具的使用心得。
 
