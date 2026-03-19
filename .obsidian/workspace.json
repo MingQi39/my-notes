@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "524b42e02961f3c3",
+        "id": "cf08b96838e6db14",
         "type": "tabs",
         "children": [
           {
-            "id": "00f93afa77bbee61",
+            "id": "92a8aeb946bd1063",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 292.5
   },
   "right": {
     "id": "7182bae17f9f03f1",
@@ -155,18 +155,6 @@
             }
           },
           {
-            "id": "93ea515af3e28d1a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "pinned": true,
-              "icon": "bot",
-              "title": "Claudian"
-            }
-          },
-          {
             "id": "905373059099667f",
             "type": "leaf",
             "pinned": true,
@@ -176,6 +164,18 @@
               "pinned": true,
               "icon": "history",
               "title": "History"
+            }
+          },
+          {
+            "id": "98740639a91718bb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "pinned": true,
+              "icon": "bot",
+              "title": "Claudian"
             }
           },
           {
@@ -215,7 +215,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "终端：zsh"
+              "title": "终端：mingqi@MacBookPro:~/Desktop/03-学习资料/hmq/my-notes"
             }
           },
           {
@@ -229,11 +229,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,43 +251,43 @@
       "obsidian-git:Open Git source control": false,
       "claudian:Open Claudian": false,
       "terminal:Open terminal": false,
-      "mxmind:Mxmind": false,
-      "remotely-save:Remotely Save": false
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "00f93afa77bbee61",
+  "active": "98740639a91718bb",
   "lastOpenFiles": [
+    "003.工具/index.md",
+    "002.AI/index.md",
+    "001.前端/index.md",
+    "notes.11tydata.js",
     "002.AI/大模型职业发展与学习路径指南.md",
     "index.md",
-    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "my-digital-garden",
-    "002.AI/未命名.md",
-    "未命名.md",
-    "002.AI/Drawing 2026-03-18 11.42.12.excalidraw.md",
-    "002.AI/未命名 1.md",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803135434.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803134622.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803134033.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803133706.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803133151.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803132838.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250803114708.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250802230019.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250801211715.png",
-    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250801211535.png",
-    "002.AI/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
-    "002.AI/001.生成式人工智能导论/010.Transformer 简介.md",
-    "002.AI/001.生成式人工智能导论/009.AI Agent.md",
+    "conflict-files-obsidian-git.md",
+    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
+    "002.AI/001.理论基础/001.生成式人工智能导论/009.AI Agent.md",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250727202456.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250727194659.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250729124026.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728133854.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728132008.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728232846.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728204112.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250731123312.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250728133923.png",
+    "002.AI/001.生成式人工智能导论/assets/Pasted image 20250731133317.png",
     "002.AI/001.生成式人工智能导论/assets",
+    "002.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
+    "002.AI/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
+    "002.AI/001.生成式人工智能导论/010.Transformer 简介.md",
+    "002.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
+    "002.AI/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
+    "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
     "002.AI/001.生成式人工智能导论/003.提示工程.md",
     "002.AI/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
     "002.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
-    "002.AI/001.生成式人工智能导论/006.LLM 训练史 1：预训练.md",
-    "002.AI/001.生成式人工智能导论/005.延申：由 AI 组成的社区.md",
-    "002.AI/001.生成式人工智能导论/004.延申：能够使用工具的 AI.md",
-    "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
+    "002.AI/001.生成式人工智能导论/009.AI Agent.md",
     "002.AI/001.生成式人工智能导论",
-    "002.AI",
     "001.前端/013.综合/assets",
     "001.前端/013.综合/020.网页复杂度指标 WCI.md",
     "001.前端/013.综合/019.浏览器翻译可能引发的页面问题.md",
@@ -297,7 +297,6 @@
     "001.前端/013.综合/015.PDF reader and annotator.md",
     "001.前端/013.综合/014.中台 VS. 后台.md",
     "001.前端/013.综合/013.Web 动画知多少.md",
-    "001.前端/013.综合/012.网页字体度量及渲染.md",
     "001.前端/013.综合",
     "001.前端/012.开源库/assets",
     "001.前端/012.开源库",
