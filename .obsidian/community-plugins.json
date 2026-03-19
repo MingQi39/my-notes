@@ -6,5 +6,16 @@
   "terminal",
   "calendar",
   "obsidian-version-history-diff",
-  "obsidian-markmind"
+  "obsidian-markmind",
+  "callout-integrator",
+  "callout-manager",
+  "oz-clear-unused-images",
+  "code-styler",
+  "obsidian-linter",
+  "hi-words",
+  "obsidian-image-toolkit",
+  "cmdr",
+  "file-explorer-note-count",
+  "file-order",
+  "easy-typing-obsidian"
 ]

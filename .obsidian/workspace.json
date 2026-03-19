@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c46d155c246d7f19",
+        "id": "9183c7f22fbbc276",
         "type": "tabs",
         "children": [
           {
-            "id": "b16be79bcbcd3aa5",
+            "id": "f22115290b5d7741",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "001.前端/008.前端框架/001.React/004.实践/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "未命名"
             }
           }
         ]
@@ -237,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 626.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,13 +255,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false,
       "claudian:Open Claudian": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "callout-manager:Insert Callout": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b16be79bcbcd3aa5",
+  "active": "f22115290b5d7741",
   "lastOpenFiles": [
-    "003.工具/index.md",
+    "001.前端/008.前端框架/001.React/004.实践/005.花了两年用遍了 React 所有状态管理库，我选出了最现代化的 Signal 方案.md",
+    "001.前端/008.前端框架/001.React/004.实践/未命名.md",
+    "001.前端/008.前端框架/001.React/004.实践/002.Next+React 双入口前端项目.md",
+    "001.前端/008.前端框架/未命名.md",
+    "未命名.md",
+    "001.前端/008.前端框架/001.React/004.实践/001.SSR Hydration 不匹配问题工程化治理方案.md",
+    "001.前端/003.JavaScript/001.语言与通用/001.词法结构.md",
     "index.md",
+    "003.工具/index.md",
     "002.AI/index.md",
     "001.前端/index.md",
     "001.前端/007.工程化/003.前端工具链/002.Prettier/assets/Pasted image 20240321123822.png",
@@ -287,16 +297,10 @@
     "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "my-digital-garden",
     "002.AI/未命名.md",
-    "未命名.md",
     "002.AI/Drawing 2026-03-18 11.42.12.excalidraw.md",
     "002.AI/未命名 1.md",
     "002.AI/001.生成式人工智能导论/008.LLM 训练史 3：强化学习.md",
-    "002.AI/001.生成式人工智能导论/010.Transformer 简介.md",
-    "002.AI/001.生成式人工智能导论/009.AI Agent.md",
     "002.AI/001.生成式人工智能导论/assets",
-    "002.AI/001.生成式人工智能导论/003.提示工程.md",
-    "002.AI/001.生成式人工智能导论/007.LLM 训练史 2：指令微调.md",
-    "002.AI/001.生成式人工智能导论/002.今日的生成式 AI 厉害在哪里.md",
     "002.AI/001.生成式人工智能导论",
     "002.AI",
     "001.前端/013.综合/assets",

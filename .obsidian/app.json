@@ -8,5 +8,6 @@
   "cssThemeFiles": [
     ".obsidian/snippets/content-margin.css"
   ],
-  "readableLineLength": false
+  "readableLineLength": false,
+  "attachmentFolderPath": "./assets"
 }
