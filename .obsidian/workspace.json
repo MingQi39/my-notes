@@ -11,10 +11,14 @@
             "id": "92a8aeb946bd1063",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001.前端/002.CSS/001.基础/007.CSS TIPS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "007.CSS TIPS"
             }
           }
         ]
@@ -233,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 382.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,8 +259,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "98740639a91718bb",
+  "active": "92a8aeb946bd1063",
   "lastOpenFiles": [
+    "001.前端/002.CSS/001.基础/006.避免CSS冲突的方案.md",
+    "001.前端/002.CSS/001.基础/005.CSS 布局：Flex & Grid.md",
+    "001.前端/002.CSS/001.基础/004.CSS 布局：圣杯、双飞翼.md",
+    "001.前端/002.CSS/001.基础/003.CSS Reset.md",
+    "001.前端/002.CSS/001.基础/002.@layer.md",
+    "001.前端/002.CSS/001.基础/001.属性值的计算过程.md",
     "003.工具/index.md",
     "002.AI/index.md",
     "001.前端/index.md",
@@ -291,12 +302,6 @@
     "001.前端/013.综合/assets",
     "001.前端/013.综合/020.网页复杂度指标 WCI.md",
     "001.前端/013.综合/019.浏览器翻译可能引发的页面问题.md",
-    "001.前端/013.综合/018.我将封装史上最优雅的 Axios.md",
-    "001.前端/013.综合/017.网页渲染方案.md",
-    "001.前端/013.综合/016.Base64.md",
-    "001.前端/013.综合/015.PDF reader and annotator.md",
-    "001.前端/013.综合/014.中台 VS. 后台.md",
-    "001.前端/013.综合/013.Web 动画知多少.md",
     "001.前端/013.综合",
     "001.前端/012.开源库/assets",
     "001.前端/012.开源库",
