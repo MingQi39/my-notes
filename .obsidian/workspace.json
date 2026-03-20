@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9183c7f22fbbc276",
+        "id": "982adae7f8c532d1",
         "type": "tabs",
         "children": [
           {
-            "id": "f22115290b5d7741",
+            "id": "8ab91eea84637cf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001.前端/013.综合/019.网页复杂度指标 WCI.md",
+                "file": "001.前端/009.性能优化/009.性能提升API.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "019.网页复杂度指标 WCI"
+              "title": "009.性能提升API"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".memory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "001.前端/009.性能优化/009.性能提升API.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "009.性能提升API 的大纲"
             }
           },
           {
@@ -237,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 626.5
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,53 +260,53 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f22115290b5d7741",
+  "active": "815741defb59499f",
   "lastOpenFiles": [
+    "001.前端/009.性能优化/008.内存优化.md",
+    "001.前端/009.性能优化/009.性能提升API.md",
+    "001.前端/009.性能优化/001.前端性能指标.md",
+    "001.前端/009.性能优化/002.LCP 触发条件与原理.md",
+    "001.前端/009.性能优化/003.性能优化概述.md",
+    "001.前端/009.性能优化/004.SPA 首屏加载优化.md",
+    "001.前端/009.性能优化/005.Webpack 性能优化.md",
+    "001.前端/009.性能优化/007.前端 JS 瘦身.md",
+    "001.前端/009.性能优化/assets/Pasted image 20260320161647.png",
+    "001.前端/009.性能优化/assets/Pasted image 20260320161625.png",
+    "001.前端/009.性能优化/assets/Pasted image 20260320161603.png",
+    "001.前端/009.性能优化/assets/Pasted image 20260320161455.png",
+    "001.前端/009.性能优化/assets/Pasted image 20260320161429.png",
+    "001.前端/009.性能优化/assets/Pasted image 20260320161336.png",
+    "001.前端/009.性能优化/assets/Pasted image 20260320161304.png",
+    "001.前端/009.性能优化/assets/Pasted image 20260320161146.png",
+    "001.前端/009.性能优化/assets/Pasted image 20260320161100.png",
+    "001.前端/009.性能优化/assets/Pasted image 20260320160521.png",
+    "001.前端/011.前端架构/001.前端架构师之路/009.前端日志埋点系统的架构设计.md",
+    "001.前端/011.前端架构/001.前端架构师之路/008.前端 CICD 流程全解析与实战部署.md",
+    "001.前端/008.前端框架/001.React/002.React18原理/001.Fiber.md",
+    "001.前端/008.前端框架/001.React/002.React18原理/002.JSX 转换.md",
+    "001.前端/008.前端框架/001.React/002.React18原理/003.调度器极简实现.md",
+    "001.前端/008.前端框架/001.React/002.React18原理/001.搭建项目架构.md",
+    "001.前端/014.AI Coding/003.Rules篇.md",
+    "001.前端/014.AI Coding/002.Skills篇.md",
+    "001.前端/014.AI Coding/001.架构篇.md",
+    "001.前端/013.综合/003.移动 web 适配利器-rem.md",
+    "001.前端/014.AI Coding",
+    "001.前端/008.前端框架/001.React/004.实践/006.拒绝“无效焦虑”：为什么你 80% 的 useMemo 都在做负优化？.md",
+    "001.前端/008.前端框架/001.React/004.实践/005.花了两年用遍了 React 所有状态管理库，我选出了最现代化的 Signal 方案.md",
+    "001.前端/008.前端框架/001.React/004.实践/002.Next+React 双入口前端项目.md",
+    "002.AI/002.马士兵-应用开发/002.LangChain.md",
+    "002.AI/大模型职业发展与学习路径指南.md",
+    "001.前端/013.综合/019.网页复杂度指标 WCI.md",
     "001.前端/013.综合/018.浏览器翻译可能引发的页面问题.md",
     "001.前端/013.综合/017.我将封装史上最优雅的 Axios.md",
-    "001.前端/013.综合/016.网页渲染方案.md",
-    "001.前端/013.综合/015.Base64.md",
-    "001.前端/013.综合/014.PDF reader and annotator.md",
-    "001.前端/013.综合/013.中台 VS. 后台.md",
-    "001.前端/008.前端框架/001.React/004.实践/005.花了两年用遍了 React 所有状态管理库，我选出了最现代化的 Signal 方案.md",
-    "001.前端/008.前端框架/001.React/004.实践/未命名.md",
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320090157.png",
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320084022.png",
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260319214930.png",
-    "002.AI/002.马士兵-应用开发/assets/0d9b90a4-a60d-49ff-bbe1-56ed8f7d421b.jpeg",
     "002.AI/002.马士兵-应用开发/assets",
-    "002.AI/002.马士兵-应用开发/002.LangChain.md",
-    "002.AI/002.马士兵-应用开发/001.入门.md",
-    "002.AI/002.马士兵-应用开发/000.课程内容说明.md",
     "002.AI/002.马士兵-应用开发",
-    "001.前端/008.前端框架/001.React/004.实践/002.Next+React 双入口前端项目.md",
-    "001.前端/008.前端框架/未命名.md",
-    "未命名.md",
-    "001.前端/008.前端框架/001.React/004.实践/001.SSR Hydration 不匹配问题工程化治理方案.md",
-    "001.前端/003.JavaScript/001.语言与通用/001.词法结构.md",
-    "index.md",
-    "003.工具/index.md",
-    "002.AI/index.md",
-    "001.前端/index.md",
-    "001.前端/007.工程化/003.前端工具链/002.Prettier/assets/Pasted image 20240321123822.png",
-    "001.前端/007.工程化/003.前端工具链/002.Prettier/assets/2023-07-18-020439.png",
-    "001.前端/007.工程化/003.前端工具链/002.Prettier/assets/2023-07-12-080447.jpg",
-    "001.前端/007.工程化/003.前端工具链/002.Prettier/assets/2023-07-12-080354.jpg",
-    "001.前端/007.工程化/003.前端工具链/001.概述/assets/Pasted image 20240321112117.png",
-    "001.前端/007.工程化/001.概述与概念/assets/Pasted image 20240321114942.png",
-    "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型5.excalidraw.md",
-    "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型4.excalidraw.md",
-    "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型3.excalidraw.md",
-    "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型2.excalidraw.md",
-    "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型1.excalidraw.md",
-    "001.前端/003.JavaScript/005.ES6+/001.ES5.md",
     "notes.11tydata.js",
     "my-digital-garden",
     "002.AI/001.生成式人工智能导论/assets",
     "002.AI/001.生成式人工智能导论",
     "002.AI",
     "001.前端/013.综合/assets",
-    "001.前端/013.综合",
-    "001.前端/012.开源库/assets"
+    "001.前端/013.综合"
   ]
 }
