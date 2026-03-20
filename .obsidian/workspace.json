@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.AI/002.马士兵-应用开发/001.入门.md",
+                "file": "001.前端/013.综合/012.网页字体度量及渲染.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.入门"
+              "title": "012.网页字体度量及渲染"
             }
           }
         ]
@@ -271,13 +271,16 @@
   },
   "active": "f22115290b5d7741",
   "lastOpenFiles": [
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260319214930.png",
-    "002.AI/002.马士兵-应用开发/assets",
+    "002.AI/002.马士兵-应用开发/002.LangChain.md",
     "002.AI/002.马士兵-应用开发/001.入门.md",
-    "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
-    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "002.AI/002.马士兵-应用开发/000.课程内容说明.md",
     "002.AI/大模型职业发展与学习路径指南.md",
+    "001.前端/013.综合/012.网页字体度量及渲染.md",
+    "001.前端/013.综合/017.网页渲染方案.md",
+    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260319214930.png",
+    "002.AI/002.马士兵-应用开发/assets",
+    "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
+    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "002.AI/001.生成式人工智能导论/未命名.md",
     "002.AI/001.生成式人工智能导论/010.Transformer 简介.md",
     "002.AI/001.生成式人工智能导论/009.AI Agent.md",
@@ -302,13 +305,10 @@
     "001.前端/006.网络/assets/20210916104747.png",
     "001.前端/005.浏览器/assets/Pasted image 20240320135339.png",
     "001.前端/005.浏览器/assets/Pasted image 20240320200802.png",
-    "001.前端/005.浏览器/assets/Pasted image 20240829161403.png",
     "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型5.excalidraw.md",
     "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型4.excalidraw.md",
     "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型3.excalidraw.md",
     "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型2.excalidraw.md",
-    "001.前端/004.TypeScript/003.类型体操/001.知识点/drawing/分布式条件类型1.excalidraw.md",
-    "001.前端/003.JavaScript/005.ES6+/001.ES5.md",
     "notes.11tydata.js",
     "my-digital-garden",
     "002.AI/001.生成式人工智能导论/assets",
