@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4a0580f64d951cf",
+        "id": "af872273dbe8666e",
         "type": "tabs",
         "children": [
           {
-            "id": "1e2230d7c69de3e7",
+            "id": "bbd2cac178618c99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
+                "file": "004.后端/001.Python/001.数据类型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002.LangChain 1.0中Agent开发的核心组件"
+              "title": "001.数据类型"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".memory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
+                "file": "004.后端/001.Python/001.数据类型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002.LangChain 1.0中Agent开发的核心组件 的大纲"
+              "title": "001.数据类型 的大纲"
             }
           },
           {
@@ -157,6 +157,18 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "93ea515af3e28d1a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "pinned": true,
+              "icon": "bot",
+              "title": "Claudian"
             }
           },
           {
@@ -208,7 +220,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "终端：mingqi@MacBookPro:~/Desktop/03-学习资料/hmq/my-notes"
+              "title": "终端：zsh"
             }
           },
           {
@@ -220,23 +232,13 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "b5142321da212d51",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,51 +262,51 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/Drawing 2026-03-24 09.13.59.excalidraw.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/Drawing 2026-03-24 09.12.13.excalidraw.md",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/003.Agent中的中间件.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/assets/Pasted image 20260322220236.png",
-    "002.AI/002.马士兵-应用开发/000.课程内容说明.md",
-    "002.AI/002.马士兵-应用开发/大模型职业发展与学习路径指南.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/001.LangChain 1.0 介绍.md",
-    "002.AI/002.马士兵-应用开发/001.基础入门/001.入门.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/assets/Pasted image 20260322213431.png",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/assets/Pasted image 20260322212456.png",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/assets/Pasted image 20260322212232.png",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/assets/Pasted image 20260322211917.png",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/assets",
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260322203010.png",
-    "002.AI/002.马士兵-应用开发/assets",
-    "002.AI/002.马士兵-应用开发/001.基础入门/assets/0d9b90a4-a60d-49ff-bbe1-56ed8f7d421b.jpeg",
-    "002.AI/002.马士兵-应用开发/001.基础入门/assets/Pasted image 20260320084022.png",
-    "002.AI/002.马士兵-应用开发/001.基础入门/assets/Pasted image 20260319214930.png",
-    "002.AI/002.马士兵-应用开发/001.基础入门",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1",
+    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260319214930.png",
+    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320090157.png",
+    "002.AI/002.马士兵-应用开发/assets/0d9b90a4-a60d-49ff-bbe1-56ed8f7d421b.jpeg",
+    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320084022.png",
     "002.AI/002.马士兵-应用开发/002.LangChain.md",
-    "002.AI/002.马士兵-应用开发/001.基础入门/assets/Pasted image 20260322201639.png",
-    "001.前端/011.前端架构/001.前端架构师之路/024.前端性能优化体系：从指标定义到监控闭环的实战指南.md",
-    "002.LangChain/005.LangChain V1 新特性.md",
-    "001.前端/020.AI/005.LangChain/005.LangChain V1 新特性.md",
-    "002.LangChain",
-    "001.前端/020.AI/005.LangChain",
-    "001.前端/020.AI",
-    "001.前端/014.AI Coding/003.Rules篇.md",
-    "001.前端/014.AI Coding/002.Skills篇.md",
-    "001.前端/014.AI Coding/001.架构篇.md",
-    "001.前端/014.AI Coding",
-    "001.前端/013.综合/019.网页复杂度指标 WCI.md",
+    "002.AI/002.马士兵-应用开发/001.入门.md",
+    "004.后端/001.Python/assets/Pasted image 20260323165057.png",
+    "004.后端/001.Python/assets",
+    "index.md",
+    "004.后端/001.Python/001.数据类型.md",
+    "004.后端/001.Python",
+    "001.前端/002.CSS/004.CSS 世界/002.10 个 CSS 特性干掉 80% 冗余代码.md",
+    "004.后端",
+    "001.前端/002.CSS/004.CSS 世界/001.概述.md",
+    "001.前端/002.CSS/004.CSS 世界/assets/Pasted image 20260323143221.png",
+    "001.前端/002.CSS/004.CSS 世界/assets/Pasted image 20260323142955.png",
+    "001.前端/013.综合/020.前端如何实现灰度发布.md",
     "001.前端/013.综合/018.浏览器翻译可能引发的页面问题.md",
-    "001.前端/013.综合/017.我将封装史上最优雅的 Axios.md",
-    "001.前端/013.综合/016.网页渲染方案.md",
-    "001.前端/013.综合/015.Base64.md",
-    "001.前端/013.综合/014.PDF reader and annotator.md",
-    "001.前端/013.综合/013.中台 VS. 后台.md",
-    "001.前端/013.综合/012.Web 动画知多少.md",
+    "001.前端/013.综合/019.网页复杂度指标 WCI.md",
     "001.前端/009.性能优化/009.性能提升API.md",
+    "002.AI/002.马士兵-应用开发/大模型职业发展与学习路径指南.md",
+    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260322203010.png",
+    "002.AI/002.马士兵-应用开发/001.基础入门/assets/Pasted image 20260322201639.png",
+    "002.AI/002.马士兵-应用开发/001.基础入门/assets/Pasted image 20260322201604.png",
+    "002.AI/002.马士兵-应用开发/001.基础入门/assets",
+    "002.AI/002.马士兵-应用开发/001.基础入门/001.入门.md",
+    "002.AI/002.马士兵-应用开发/001.基础入门",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/assets",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/001.LangChain 1.0 介绍.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1",
     "001.前端/009.性能优化/008.内存优化.md",
-    "001.前端/008.前端框架/001.React/004.实践/006.拒绝“无效焦虑”：为什么你 80% 的 useMemo 都在做负优化？.md",
-    "001.前端/008.前端框架/001.React/002.React18原理/drawing",
-    "001.前端/008.前端框架/001.React/002.React18原理/assets"
+    "001.前端/009.性能优化/001.前端性能指标.md",
+    "001.前端/009.性能优化/002.LCP 触发条件与原理.md",
+    "001.前端/009.性能优化/003.性能优化概述.md",
+    "001.前端/009.性能优化/004.SPA 首屏加载优化.md",
+    "001.前端/009.性能优化/005.Webpack 性能优化.md",
+    "001.前端/009.性能优化/007.前端 JS 瘦身.md",
+    "001.前端/011.前端架构/001.前端架构师之路/009.前端日志埋点系统的架构设计.md",
+    "001.前端/011.前端架构/001.前端架构师之路/008.前端 CICD 流程全解析与实战部署.md",
+    "001.前端/008.前端框架/001.React/002.React18原理/001.Fiber.md",
+    "001.前端/008.前端框架/001.React/002.React18原理/002.JSX 转换.md",
+    "001.前端/014.AI Coding",
+    "002.AI/002.马士兵-应用开发/assets",
+    "002.AI/002.马士兵-应用开发"
   ]
 }
