@@ -260,12 +260,15 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/Drawing 2026-03-24 09.13.59.excalidraw.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/Drawing 2026-03-24 09.12.13.excalidraw.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/003.Agent中的中间件.md",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/assets/Pasted image 20260322220236.png",
     "002.AI/002.马士兵-应用开发/000.课程内容说明.md",
     "002.AI/002.马士兵-应用开发/大模型职业发展与学习路径指南.md",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/001.LangChain 1.0 介绍.md",
     "002.AI/002.马士兵-应用开发/001.基础入门/001.入门.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/assets/Pasted image 20260322213431.png",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/assets/Pasted image 20260322212456.png",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/assets/Pasted image 20260322212232.png",
@@ -280,7 +283,6 @@
     "002.AI/002.马士兵-应用开发/001.LangChain V1",
     "002.AI/002.马士兵-应用开发/002.LangChain.md",
     "002.AI/002.马士兵-应用开发/001.基础入门/assets/Pasted image 20260322201639.png",
-    "002.AI/002.马士兵-应用开发/001.基础入门/assets/Pasted image 20260322201604.png",
     "001.前端/011.前端架构/001.前端架构师之路/024.前端性能优化体系：从指标定义到监控闭环的实战指南.md",
     "002.LangChain/005.LangChain V1 新特性.md",
     "001.前端/020.AI/005.LangChain/005.LangChain V1 新特性.md",
@@ -302,9 +304,7 @@
     "001.前端/009.性能优化/009.性能提升API.md",
     "001.前端/009.性能优化/008.内存优化.md",
     "001.前端/008.前端框架/001.React/004.实践/006.拒绝“无效焦虑”：为什么你 80% 的 useMemo 都在做负优化？.md",
-    "001.前端/008.前端框架/001.React/002.React18原理/drawing/001.multi-repo vs mono-repo.excalidraw.md",
     "001.前端/008.前端框架/001.React/002.React18原理/drawing",
-    "001.前端/008.前端框架/001.React/002.React18原理/assets",
-    "001.前端/008.前端框架/001.React/002.React18原理/003.调度器极简实现.md"
+    "001.前端/008.前端框架/001.React/002.React18原理/assets"
   ]
 }
