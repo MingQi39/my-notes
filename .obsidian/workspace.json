@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.后端/001.Python/001.数据类型.md",
+                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.Python & MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.数据类型"
+              "title": "001.Python & MySQL"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.后端/001.Python/001.数据类型.md",
+                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.Python & MySQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001.数据类型 的大纲"
+              "title": "001.Python & MySQL 的大纲"
             }
           },
           {
@@ -238,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 377.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,51 +262,51 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.正则表达式.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.Python & MySQL.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/000.课程内容说明.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/011.标准库.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础",
+    "004.后端/001.Python/001.菜鸟教程-Python",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/010.命名空间和作用域.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/009.File & OS.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324165242.png",
+    "002.AI/002.马士兵-应用开发/大模型职业发展与学习路径指南.md",
+    "002.AI/002.马士兵-应用开发/002.LangChain.md",
+    "002.AI/002.马士兵-应用开发/001.入门.md",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/003.Agent中的中间件.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/001.LangChain 1.0 介绍.md",
+    "002.AI/002.马士兵-应用开发/001.基础入门/001.入门.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/008.模块 & 包.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/007.数据结构.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/006.装饰器.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/005.函数.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/004.with 关键字.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/003.迭代器与生成器.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/002.循环&推导.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/001.数据类型.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324164038.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324143410.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324142414.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324114044.png",
+    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "002.AI/002.马士兵-应用开发/assets/Pasted image 20260319214930.png",
     "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320090157.png",
     "002.AI/002.马士兵-应用开发/assets/0d9b90a4-a60d-49ff-bbe1-56ed8f7d421b.jpeg",
     "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320084022.png",
-    "002.AI/002.马士兵-应用开发/002.LangChain.md",
-    "002.AI/002.马士兵-应用开发/001.入门.md",
-    "004.后端/001.Python/assets/Pasted image 20260323165057.png",
-    "004.后端/001.Python/assets",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260323165057.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets",
     "index.md",
-    "004.后端/001.Python/001.数据类型.md",
     "004.后端/001.Python",
     "001.前端/002.CSS/004.CSS 世界/002.10 个 CSS 特性干掉 80% 冗余代码.md",
     "004.后端",
     "001.前端/002.CSS/004.CSS 世界/001.概述.md",
-    "001.前端/002.CSS/004.CSS 世界/assets/Pasted image 20260323143221.png",
-    "001.前端/002.CSS/004.CSS 世界/assets/Pasted image 20260323142955.png",
     "001.前端/013.综合/020.前端如何实现灰度发布.md",
-    "001.前端/013.综合/018.浏览器翻译可能引发的页面问题.md",
-    "001.前端/013.综合/019.网页复杂度指标 WCI.md",
-    "001.前端/009.性能优化/009.性能提升API.md",
-    "002.AI/002.马士兵-应用开发/大模型职业发展与学习路径指南.md",
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260322203010.png",
-    "002.AI/002.马士兵-应用开发/001.基础入门/assets/Pasted image 20260322201639.png",
-    "002.AI/002.马士兵-应用开发/001.基础入门/assets/Pasted image 20260322201604.png",
     "002.AI/002.马士兵-应用开发/001.基础入门/assets",
-    "002.AI/002.马士兵-应用开发/001.基础入门/001.入门.md",
     "002.AI/002.马士兵-应用开发/001.基础入门",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/assets",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/001.LangChain 1.0 介绍.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1",
-    "001.前端/009.性能优化/008.内存优化.md",
-    "001.前端/009.性能优化/001.前端性能指标.md",
-    "001.前端/009.性能优化/002.LCP 触发条件与原理.md",
-    "001.前端/009.性能优化/003.性能优化概述.md",
-    "001.前端/009.性能优化/004.SPA 首屏加载优化.md",
-    "001.前端/009.性能优化/005.Webpack 性能优化.md",
-    "001.前端/009.性能优化/007.前端 JS 瘦身.md",
-    "001.前端/011.前端架构/001.前端架构师之路/009.前端日志埋点系统的架构设计.md",
-    "001.前端/011.前端架构/001.前端架构师之路/008.前端 CICD 流程全解析与实战部署.md",
-    "001.前端/008.前端框架/001.React/002.React18原理/001.Fiber.md",
-    "001.前端/008.前端框架/001.React/002.React18原理/002.JSX 转换.md",
-    "001.前端/014.AI Coding",
-    "002.AI/002.马士兵-应用开发/assets",
-    "002.AI/002.马士兵-应用开发"
+    "002.AI/002.马士兵-应用开发/001.LangChain V1"
   ]
 }
