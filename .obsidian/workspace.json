@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af872273dbe8666e",
+        "id": "b4a0580f64d951cf",
         "type": "tabs",
         "children": [
           {
-            "id": "bbd2cac178618c99",
+            "id": "1e2230d7c69de3e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.Python & MySQL.md",
-                "mode": "source",
-                "source": false
+                "aFile": "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
+                "bFile": "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "001.Python & MySQL"
+              "icon": "diff",
+              "title": "Diff: 002.LangChain 1.0中Agent开发的核心组件  (Working Tree)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".memory",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.Python & MySQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001.Python & MySQL 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -157,18 +156,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "93ea515af3e28d1a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "pinned": true,
-              "icon": "bot",
-              "title": "Claudian"
             }
           },
           {
@@ -220,7 +207,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "终端：zsh"
+              "title": "终端：mingqi@MacBookPro:~/Desktop/03-学习资料/hmq/my-notes"
             }
           },
           {
@@ -232,13 +219,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "b5142321da212d51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 386.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,53 +257,52 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "1e2230d7c69de3e7",
   "lastOpenFiles": [
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.正则表达式.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.Python & MySQL.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/000.课程内容说明.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/011.标准库.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础",
-    "004.后端/001.Python/001.菜鸟教程-Python",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/010.命名空间和作用域.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/009.File & OS.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324165242.png",
-    "002.AI/002.马士兵-应用开发/大模型职业发展与学习路径指南.md",
-    "002.AI/002.马士兵-应用开发/002.LangChain.md",
-    "002.AI/002.马士兵-应用开发/001.入门.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/003.Agent中的中间件.md",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/001.LangChain 1.0 介绍.md",
-    "002.AI/002.马士兵-应用开发/001.基础入门/001.入门.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/008.模块 & 包.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/007.数据结构.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/006.装饰器.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/005.函数.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/004.with 关键字.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/003.迭代器与生成器.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/002.循环&推导.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/001.数据类型.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324165242.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324142414.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324164038.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324143410.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324142414.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324114044.png",
-    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260319214930.png",
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320090157.png",
-    "002.AI/002.马士兵-应用开发/assets/0d9b90a4-a60d-49ff-bbe1-56ed8f7d421b.jpeg",
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320084022.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260323165057.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/001.数据类型.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.Python & MySQL.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/011.标准库.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets",
-    "index.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/010.命名空间和作用域.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/009.File & OS.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/008.模块 & 包.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/007.数据结构.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/004.with 关键字.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/006.装饰器.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/005.函数.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/003.迭代器与生成器.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/002.循环&推导.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础",
+    "004.后端/001.Python/001.菜鸟教程-Python/000.课程内容说明.md",
+    "004.后端/001.Python/001.菜鸟教程-Python",
     "004.后端/001.Python",
-    "001.前端/002.CSS/004.CSS 世界/002.10 个 CSS 特性干掉 80% 冗余代码.md",
     "004.后端",
-    "001.前端/002.CSS/004.CSS 世界/001.概述.md",
+    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320090157.png",
+    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320084022.png",
+    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260319214930.png",
+    "002.AI/002.马士兵-应用开发/assets/0d9b90a4-a60d-49ff-bbe1-56ed8f7d421b.jpeg",
+    "002.AI/002.马士兵-应用开发/002.LangChain.md",
+    "002.AI/002.马士兵-应用开发/001.入门.md",
     "001.前端/013.综合/020.前端如何实现灰度发布.md",
-    "002.AI/002.马士兵-应用开发/001.基础入门/assets",
-    "002.AI/002.马士兵-应用开发/001.基础入门",
+    "001.前端/002.CSS/004.CSS 世界/002.10 个 CSS 特性干掉 80% 冗余代码.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/Drawing 2026-03-24 09.13.59.excalidraw.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/Drawing 2026-03-24 09.12.13.excalidraw.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/003.Agent中的中间件.md",
+    "002.AI/002.马士兵-应用开发/000.课程内容说明.md",
+    "002.AI/002.马士兵-应用开发/大模型职业发展与学习路径指南.md",
+    "002.AI/002.马士兵-应用开发/001.LangChain V1/001.LangChain 1.0 介绍.md",
+    "002.AI/002.马士兵-应用开发/001.基础入门/001.入门.md",
     "002.AI/002.马士兵-应用开发/001.LangChain V1/assets",
+    "002.AI/002.马士兵-应用开发/assets",
+    "002.AI/002.马士兵-应用开发/001.基础入门",
     "002.AI/002.马士兵-应用开发/001.LangChain V1"
   ]
 }
