@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/003.SMTP发送邮件.md",
+                "file": "004.后端/001.Python/001.菜鸟教程-Python/001.基础/007.数据结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003.SMTP发送邮件"
+              "title": "007.数据结构"
             }
           }
         ]
@@ -53,8 +53,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".memory",
-                "matchingCase": false,
+                "query": "队列",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/003.SMTP发送邮件.md",
+                "file": "004.后端/001.Python/001.菜鸟教程-Python/001.基础/007.数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.SMTP发送邮件 的大纲"
+              "title": "007.数据结构 的大纲"
             }
           },
           {
@@ -234,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -260,19 +260,32 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "bbd2cac178618c99",
+  "active": "815741defb59499f",
   "lastOpenFiles": [
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/011.Pickle 模块.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/007.数据结构.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/010.asyncio 模块.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260325161734.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/009.csv 模块.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/011.标准库.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/005.日期和时间.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/008.爬虫.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260325153737.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/007.自动化 Web 浏览器操作.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/006.请求.md",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/002.网络编程.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/009.File & OS.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260325141814.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/004.多线程.md",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/003.SMTP发送邮件.md",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.Python & MySQL.md",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.正则表达式.md",
     "004.后端/001.Python/001.菜鸟教程-Python/000.课程内容说明.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/011.标准库.md",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础",
     "004.后端/001.Python/001.菜鸟教程-Python",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/010.命名空间和作用域.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/009.File & OS.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324165242.png",
     "002.AI/002.马士兵-应用开发/大模型职业发展与学习路径指南.md",
     "002.AI/002.马士兵-应用开发/002.LangChain.md",
@@ -282,31 +295,18 @@
     "002.AI/002.马士兵-应用开发/002.LangChain V1/001.LangChain 1.0 介绍.md",
     "002.AI/002.马士兵-应用开发/001.基础入门/001.入门.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/008.模块 & 包.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/007.数据结构.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/006.装饰器.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/005.函数.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/004.with 关键字.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/003.迭代器与生成器.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/002.循环&推导.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/001.数据类型.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324164038.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324143410.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324142414.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324114044.png",
-    "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
     "002.AI/002.马士兵-应用开发/assets/Pasted image 20260319214930.png",
     "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320090157.png",
-    "002.AI/002.马士兵-应用开发/assets/0d9b90a4-a60d-49ff-bbe1-56ed8f7d421b.jpeg",
-    "002.AI/002.马士兵-应用开发/assets/Pasted image 20260320084022.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260323165057.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets",
-    "index.md",
     "004.后端/001.Python",
-    "001.前端/002.CSS/004.CSS 世界/002.10 个 CSS 特性干掉 80% 冗余代码.md",
     "004.后端",
     "002.AI/002.马士兵-应用开发/001.基础入门/assets",
     "002.AI/002.马士兵-应用开发/001.基础入门",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/assets",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1"
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/assets"
   ]
 }
