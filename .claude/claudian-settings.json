@@ -39,7 +39,7 @@
     ]
   },
   "permissionMode": "normal",
-  "model": "kimi-k2-thinking-turbo",
+  "model": "haiku",
   "thinkingBudget": "off",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -54,7 +54,7 @@
     "~/Downloads"
   ],
   "persistentExternalContextPaths": [],
-  "environmentVariables": "ANTHROPIC_BASE_URL=https://api.moonshot.cn/anthropic\nANTHROPIC_AUTH_TOKEN=sk-n0z69wSOR3PSSKPUxgetxjqY0T0lfyRpzJJb7pWv5G63uDAV\nANTHROPIC_MODEL=kimi-k2-thinking-turbo\nANTHROPIC_DEFAULT_OPUS_MODEL=kimi-k2-thinking-turbo\nANTHROPIC_DEFAULT_SONNET_MODEL=kimi-k2-thinking-turbo\nANTHROPIC_DEFAULT_HAIKU_MODEL=kimi-k2-thinking-turbo\nCLAUDE_CODE_SUBAGENT_MODEL=kimi-k2-thinking-turbo\nENABLE_TOOL_SEARCH=false",
+  "environmentVariables": "OPENAI_API_KEY=ollama\nOPENAI_BASE_URL=http://localhost:11434/v1",
   "envSnippets": [],
   "customContextLimits": {},
   "keyboardNavigation": {
@@ -68,7 +68,7 @@
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "sonnet",
   "lastCustomModel": "kimi-k2-thinking-turbo",
-  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.moonshot.cn/anthropic|ANTHROPIC_DEFAULT_HAIKU_MODEL=kimi-k2-thinking-turbo|ANTHROPIC_DEFAULT_OPUS_MODEL=kimi-k2-thinking-turbo|ANTHROPIC_DEFAULT_SONNET_MODEL=kimi-k2-thinking-turbo|ANTHROPIC_MODEL=kimi-k2-thinking-turbo",
+  "lastEnvHash": "",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
