@@ -268,10 +268,19 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "6627b2169de057c5",
   "lastOpenFiles": [
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/Deep Agents.excalidraw.md",
+    "002.AI/004.LangChain/003.输出解析：让模型返回结构化数据.md",
+    "002.AI/004.LangChain/002.提示工程基础：Prompt Templates.md",
+    "002.AI/004.LangChain/001.LangChain 核心抽象：Models 与 Messages.md",
+    "002.AI/004.LangChain",
+    "002.AI/003.优秀实践/001.实现一个 Mini Claude Code：从底层理解 AI Agent.md",
+    "002.AI/003.优秀实践",
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing/Agent 的工作原理.excalidaw.md",
+    "002.AI/000.AI编程相关资源.md",
+    "conflict-files-obsidian-git.md",
     "002.AI/002.马士兵-应用开发/002.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/Deep Agents.excalidraw.md",
     "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing/Agent是怎么工作的.excalidraw.md",
     "002.AI/002.马士兵-应用开发/002.LangChain V1/003.Agent中的中间件.md",
     "drawing/Drawing 2026-03-26 08.35.48.excalidraw.md",
@@ -301,20 +310,10 @@
     "002.AI/002.马士兵-应用开发/002.LangChain V1/assets/Pasted image 20260322212232.png",
     "002.AI/002.马士兵-应用开发/002.LangChain V1/assets/Pasted image 20260322211917.png",
     "002.AI/002.马士兵-应用开发/002.LangChain V1/assets",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/001.LangChain 1.0 介绍.md",
     "002.AI/002.马士兵-应用开发/002.LangChain V1",
-    "002.AI/002.马士兵-应用开发/001.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324165242.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/001.数据类型.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/001.Python & MySQL.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/011.标准库.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/010.命名空间和作用域.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/009.File & OS.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/008.模块 & 包.md",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础",
-    "004.后端/001.Python/001.菜鸟教程-Python",
-    "004.后端/001.Python"
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础"
   ]
 }
