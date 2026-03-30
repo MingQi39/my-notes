@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa7bc4be0d7f4714",
+        "id": "8e8eebdc20b46af1",
         "type": "tabs",
         "children": [
           {
-            "id": "5f87e9302f43a852",
+            "id": "dc1983cf85800f77",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -255,8 +255,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "5f87e9302f43a852",
+  "active": "815741defb59499f",
   "lastOpenFiles": [
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing/Agent 的工作原理.excalidaw.md",
     "002.AI/003.优秀实践/drawing/大模型ReAct.excalidraw.md",
     "002.AI/003.优秀实践/002.PDCA(戴明环）与 大模型推理框架ReAct.md",
     "002.AI/003.优秀实践/drawing/PDCA.excalidraw.md",
@@ -283,7 +284,6 @@
     "001.前端/003.JavaScript/001.语言与通用/001.词法结构.md",
     "002.AI/002.马士兵-应用开发/002.LangChain V1/003.Agent中的中间件.md",
     "002.AI/002.马士兵-应用开发/002.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing/Agent 的工作原理.excalidaw.md",
     "001.前端/003.JavaScript/001.语言与通用/drawing/二进制数据.excalidraw.md",
     "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing",
     "002.AI/001.生成式人工智能导论/000.课程内容说明.md",
