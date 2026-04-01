@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.后端/001.Python/002.工具/003.Pydantic.md",
+                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003.Pydantic"
+              "title": "012.协程"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.后端/001.Python/002.工具/003.Pydantic.md",
+                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.Pydantic 的大纲"
+              "title": "012.协程 的大纲"
             }
           },
           {
@@ -238,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,9 +262,35 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173959.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/011.进程与线程.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173748.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173548.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173456.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173359.png",
+    "001.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/004.多线程.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/009.File & OS.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/010.命名空间和作用域.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/004.with 关键字.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/003.迭代器与生成器.md",
+    "001.前端/003.JavaScript/001.语言与通用/008.事件循环.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/005.函数.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/006.装饰器.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401105200.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401105157.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401104847.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401104628.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401104050.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401103544.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/012.面向对象.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/002.循环&推导.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/001.数据类型.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/006.请求.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/010.asyncio 模块.md",
     "004.后端/001.Python/002.工具/004.asyncio.md",
     "004.后端/001.Python/002.工具/003.Pydantic.md",
-    "004.后端/001.Python/002.工具/assets/Pasted image 20260331110406.png",
     "004.后端/001.Python/002.工具/assets",
     "004.后端/001.Python/002.工具/002.typing类型提示.md",
     "004.后端/001.Python/002.工具/001.python-dotenv库用法.md",
@@ -274,38 +300,13 @@
     "002.AI/004.LangChain/003.输出解析：让模型返回结构化数据.md",
     "002.AI/003.优秀实践/002.PDCA(戴明环）与 大模型推理框架ReAct.md",
     "002.AI/003.优秀实践/001.实现一个 Mini Claude Code：从底层理解 AI Agent.md",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing/Agent 的工作原理.excalidaw.md",
-    "002.AI/003.优秀实践/drawing/大模型ReAct.excalidraw.md",
-    "002.AI/003.优秀实践/drawing/PDCA.excalidraw.md",
     "002.AI/003.优秀实践/drawing",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing/Muti-Agent 是什么.excalidraw.md",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing/Agent是怎么工作的.excalidraw.md",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/assets/Pasted image 20260325220755.png",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/Deep Agents.excalidraw.md",
-    "002.AI/004.LangChain/001.LangChain 核心抽象：Models 与 Messages.md",
     "002.AI/004.LangChain",
-    "002.AI/000.AI编程相关资源.md",
-    "001.前端/013.综合/001.Web API.md",
-    "001.前端/013.综合/003.移动 web 适配利器-rem.md",
     "002.AI/003.优秀实践",
-    "002.AI/003.AI 编程相关资源/001.AI 代码编辑器与 IDE.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/004.with 关键字.md",
-    "002.AI/000.AI 编程相关资源.md",
     "002.AI/003.AI 编程相关资源",
-    "001.前端/003.JavaScript/001.语言与通用/012.二进制数据.md",
-    "001.前端/003.JavaScript/001.语言与通用/002.数据类型.md",
-    "001.前端/003.JavaScript/001.语言与通用/001.词法结构.md",
     "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260325161734.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260325153737.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260325141814.png",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324165242.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324164038.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324143410.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324142414.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260324114044.png"
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础"
   ]
 }
