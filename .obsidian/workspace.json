@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6b3d97ad15d423",
+        "id": "48b7a0045a71783d",
         "type": "tabs",
         "children": [
           {
-            "id": "35df96072daed205",
+            "id": "6642a7fed9d95693",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
+                "file": "001.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "012.协程"
+              "title": "009.异步处理与 Promise"
+            }
+          },
+          {
+            "id": "34308dcc39650f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "001.程序员修炼之道：从小工到专家的完整指南"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "二进制数据.",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
+                "file": "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "012.协程 的大纲"
+              "title": "001.程序员修炼之道：从小工到专家的完整指南 的大纲"
             }
           },
           {
@@ -262,14 +277,41 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173959.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/011.进程与线程.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173748.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173548.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173456.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173359.png",
+    "002.AI/006.源码分析/001.Mem0 源码实现与原理解析.md",
+    "002.AI/000.AI编程相关资源.md",
+    "002.AI/003.优秀实践/007.Agent Skill.md",
+    "002.AI/003.优秀实践/006.ReAct 与 Plan-and-Execute 设计模式.md",
+    "002.AI/003.优秀实践/005.RAG与向量数据库.md",
+    "002.AI/003.优秀实践/004.Agentic Design Patterns ｜ 以ADK为例.md",
+    "002.AI/003.优秀实践/003.分词.md",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402193235.png",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402192307.png",
+    "002.AI/003.优秀实践/assets/agent-desgin-pattern-demo-main.zip",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402185636.png",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402185605.png",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402185507.png",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402185438.png",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402175341.png",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402175214.png",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402174846.png",
+    "002.AI/003.优秀实践/assets/Pasted image 20260402174813.png",
+    "002.AI/003.优秀实践/assets",
+    "002.AI/005.learn claude code/000.课程内容说明.md",
+    "003.工具/002.Markdown/001.markdown公式.md",
+    "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
+    "005.综合",
+    "002.AI/006.源码分析/assets",
+    "002.AI/005.learn claude code/001.Claude Code 概述.md",
+    "002.AI/006.源码分析",
+    "002.AI/004.LangChain/004.链（Chains）：构建可组合的工作流.md",
     "001.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
+    "002.AI/005.learn claude code/drawing/核心架构图.excalidraw.md",
+    "002.AI/005.learn claude code/drawing",
+    "002.AI/005.learn claude code/drawing/Claude系统架构.excalidraw.md",
+    "002.AI/005.learn claude code/001.真正的 Agent Harness 工程.md",
+    "002.AI/005.learn claude code",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/011.进程与线程.md",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/004.多线程.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/009.File & OS.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/010.命名空间和作用域.md",
@@ -278,35 +320,8 @@
     "001.前端/003.JavaScript/001.语言与通用/008.事件循环.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/005.函数.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/006.装饰器.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401105200.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401105157.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401104847.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401104628.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401104050.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401103544.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/012.面向对象.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/002.循环&推导.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/001.数据类型.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/006.请求.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/010.asyncio 模块.md",
-    "004.后端/001.Python/002.工具/004.asyncio.md",
-    "004.后端/001.Python/002.工具/003.Pydantic.md",
     "004.后端/001.Python/002.工具/assets",
-    "004.后端/001.Python/002.工具/002.typing类型提示.md",
-    "004.后端/001.Python/002.工具/001.python-dotenv库用法.md",
-    "002.AI/004.LangChain/002.提示工程基础：Prompt Templates.md",
     "004.后端/001.Python/002.工具",
-    "002.AI/004.LangChain/004.链（Chains）：构建可组合的工作流.md",
-    "002.AI/004.LangChain/003.输出解析：让模型返回结构化数据.md",
-    "002.AI/003.优秀实践/002.PDCA(戴明环）与 大模型推理框架ReAct.md",
-    "002.AI/003.优秀实践/001.实现一个 Mini Claude Code：从底层理解 AI Agent.md",
-    "002.AI/003.优秀实践/drawing",
-    "002.AI/004.LangChain",
-    "002.AI/003.优秀实践",
-    "002.AI/003.AI 编程相关资源",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础"
+    "002.AI/003.优秀实践/drawing"
   ]
 }
