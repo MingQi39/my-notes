@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "34308dcc39650f14",
+            "id": "d237deb6c879760e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
+                "file": "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.程序员修炼之道：从小工到专家的完整指南"
+              "title": "003.上下文工程"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
+                "file": "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001.程序员修炼之道：从小工到专家的完整指南 的大纲"
+              "title": "003.上下文工程 的大纲"
             }
           },
           {
@@ -253,7 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,9 +277,28 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
+    "002.AI/005.learn claude code/001.核心架构/drawing/压缩后恢复机制.excalidraw.md",
+    "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/五级压缩流水线.excalidraw.md",
+    "002.AI/005.learn claude code/001.核心架构/002.系统主循环.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/Max-Output-Tokens 恢复.excalidraw.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/PTL（Prompt-Too-Long）恢复流程.excalidraw.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/单次循环迭代流程.excalidraw.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/submitMessage() 八阶段生命周期.excalidraw.md",
+    "002.AI/005.learn claude code/001.核心架构/001.概述.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/启动流程.excalidraw.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/上下文构建全景.excalidraw.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/双层生成器架构.excalidraw.md",
+    "002.AI/005.learn claude code/000.课程内容说明.md",
+    "002.AI/005.learn claude code/001.核心架构",
+    "002.AI/005.learn claude code/001.核心架构/drawing/架构总览.excalidraw.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/数据流全景.excalidraw.md",
+    "001.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
+    "002.AI/003.优秀实践/008.Prompt Caching.md",
+    "002.AI/003.优秀实践/007.Agent Skill.md",
+    "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
     "002.AI/006.源码分析/001.Mem0 源码实现与原理解析.md",
     "002.AI/000.AI编程相关资源.md",
-    "002.AI/003.优秀实践/007.Agent Skill.md",
     "002.AI/003.优秀实践/006.ReAct 与 Plan-and-Execute 设计模式.md",
     "002.AI/003.优秀实践/005.RAG与向量数据库.md",
     "002.AI/003.优秀实践/004.Agentic Design Patterns ｜ 以ADK为例.md",
@@ -296,32 +315,13 @@
     "002.AI/003.优秀实践/assets/Pasted image 20260402174846.png",
     "002.AI/003.优秀实践/assets/Pasted image 20260402174813.png",
     "002.AI/003.优秀实践/assets",
-    "002.AI/005.learn claude code/000.课程内容说明.md",
     "003.工具/002.Markdown/001.markdown公式.md",
-    "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
     "005.综合",
     "002.AI/006.源码分析/assets",
-    "002.AI/005.learn claude code/001.Claude Code 概述.md",
     "002.AI/006.源码分析",
-    "002.AI/004.LangChain/004.链（Chains）：构建可组合的工作流.md",
-    "001.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
-    "002.AI/005.learn claude code/drawing/核心架构图.excalidraw.md",
-    "002.AI/005.learn claude code/drawing",
-    "002.AI/005.learn claude code/drawing/Claude系统架构.excalidraw.md",
-    "002.AI/005.learn claude code/001.真正的 Agent Harness 工程.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing",
     "002.AI/005.learn claude code",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/011.进程与线程.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/004.多线程.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/009.File & OS.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/010.命名空间和作用域.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/004.with 关键字.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/003.迭代器与生成器.md",
-    "001.前端/003.JavaScript/001.语言与通用/008.事件循环.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/005.函数.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/006.装饰器.md",
     "004.后端/001.Python/002.工具/assets",
-    "004.后端/001.Python/002.工具",
-    "002.AI/003.优秀实践/drawing"
+    "004.后端/001.Python/002.工具"
   ]
 }
