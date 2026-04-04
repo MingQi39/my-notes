@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "48b7a0045a71783d",
+        "id": "bd85f65867445619",
         "type": "tabs",
         "children": [
           {
-            "id": "6642a7fed9d95693",
+            "id": "6627b2169de057c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
+                "file": "002.AI/005.learn claude code/002.能力系统/003.Hooks 与可扩展性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "009.异步处理与 Promise"
-            }
-          },
-          {
-            "id": "d237deb6c879760e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "003.上下文工程"
+              "title": "003.Hooks 与可扩展性"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +54,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -155,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
+                "file": "002.AI/005.learn claude code/002.能力系统/003.Hooks 与可扩展性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.上下文工程 的大纲"
+              "title": "003.Hooks 与可扩展性 的大纲"
             }
           },
           {
@@ -172,18 +157,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "93ea515af3e28d1a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "pinned": true,
-              "icon": "bot",
-              "title": "Claudian"
             }
           },
           {
@@ -235,7 +208,7 @@
                 }
               },
               "icon": "terminal",
-              "title": "终端：zsh"
+              "title": "终端：✳ Claude Code"
             }
           },
           {
@@ -247,13 +220,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "b5142321da212d51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "9b512986af97a07f",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,51 +270,51 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
-    "002.AI/005.learn claude code/001.核心架构/drawing/压缩后恢复机制.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/与权限系统的竞速.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/003.Hooks 与可扩展性.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/三层来源与策略控制.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/Hook 执行引擎.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/002.代码编辑策略.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/与工具系统的整合.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/001.工具系统.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/工具执行生命周期.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing",
+    "002.AI/005.learn claude code/002.能力系统/drawing/工具注册表与组装.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/assets/Pasted Image 20260404125748_708.svg",
+    "002.AI/005.learn claude code/002.能力系统/drawing/连接状态机.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/assets",
+    "002.AI/005.learn claude code/002.能力系统/drawing/子 Agent 生命周期.excalidraw.md",
     "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/五级压缩流水线.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/002.系统主循环.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/Max-Output-Tokens 恢复.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/PTL（Prompt-Too-Long）恢复流程.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/单次循环迭代流程.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/submitMessage() 八阶段生命周期.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/001.概述.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/启动流程.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/上下文构建全景.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统",
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
+    "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
+    "005.综合",
+    "004.后端/001.Python/002.工具/assets/Pasted image 20260331110406.png",
+    "004.后端/001.Python/002.工具/assets",
+    "004.后端/001.Python/002.工具/003.Pydantic.md",
+    "004.后端/001.Python/002.工具/002.typing类型提示.md",
+    "004.后端/001.Python/002.工具/001.python-dotenv库用法.md",
+    "004.后端/001.Python/002.工具",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173959.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173748.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173548.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173456.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173359.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/011.进程与线程.md",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401105200.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401105157.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401104847.png",
+    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/012.面向对象.md",
+    "002.AI/006.源码分析/assets",
+    "002.AI/006.源码分析/001.Mem0 源码实现与原理解析.md",
+    "002.AI/006.源码分析",
+    "002.AI/005.learn claude code/001.核心架构/drawing/核心架构图.excalidraw.md",
     "002.AI/005.learn claude code/001.核心架构/drawing/双层生成器架构.excalidraw.md",
-    "002.AI/005.learn claude code/000.课程内容说明.md",
-    "002.AI/005.learn claude code/001.核心架构",
     "002.AI/005.learn claude code/001.核心架构/drawing/架构总览.excalidraw.md",
     "002.AI/005.learn claude code/001.核心架构/drawing/数据流全景.excalidraw.md",
-    "001.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
-    "002.AI/003.优秀实践/008.Prompt Caching.md",
-    "002.AI/003.优秀实践/007.Agent Skill.md",
-    "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
-    "002.AI/006.源码分析/001.Mem0 源码实现与原理解析.md",
-    "002.AI/000.AI编程相关资源.md",
-    "002.AI/003.优秀实践/006.ReAct 与 Plan-and-Execute 设计模式.md",
-    "002.AI/003.优秀实践/005.RAG与向量数据库.md",
-    "002.AI/003.优秀实践/004.Agentic Design Patterns ｜ 以ADK为例.md",
-    "002.AI/003.优秀实践/003.分词.md",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402193235.png",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402192307.png",
-    "002.AI/003.优秀实践/assets/agent-desgin-pattern-demo-main.zip",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402185636.png",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402185605.png",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402185507.png",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402185438.png",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402175341.png",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402175214.png",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402174846.png",
-    "002.AI/003.优秀实践/assets/Pasted image 20260402174813.png",
-    "002.AI/003.优秀实践/assets",
-    "003.工具/002.Markdown/001.markdown公式.md",
-    "005.综合",
-    "002.AI/006.源码分析/assets",
-    "002.AI/006.源码分析",
+    "002.AI/005.learn claude code/001.核心架构/drawing/启动流程.excalidraw.md",
     "002.AI/005.learn claude code/001.核心架构/drawing",
-    "002.AI/005.learn claude code",
-    "004.后端/001.Python/002.工具/assets",
-    "004.后端/001.Python/002.工具"
+    "002.AI/005.learn claude code/001.核心架构"
   ]
 }
