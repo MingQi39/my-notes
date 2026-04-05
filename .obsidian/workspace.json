@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd85f65867445619",
+        "id": "ac11267b90595f3f",
         "type": "tabs",
         "children": [
           {
-            "id": "6627b2169de057c5",
+            "id": "6b391138bee33307",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002.AI/005.learn claude code/002.能力系统/003.Hooks 与可扩展性.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "003.Hooks 与可扩展性"
+              "title": "新标签页"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/005.learn claude code/002.能力系统/003.Hooks 与可扩展性.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.Hooks 与可扩展性 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -246,7 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 379.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,50 +265,50 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
-    "002.AI/005.learn claude code/002.能力系统/drawing/与权限系统的竞速.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/封闭的四类型分类法.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/005.记忆系统.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/记忆提示词构建层级.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/后台记忆提取.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/记忆召回：语义检索.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/记忆决策流程.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/004.多 Agent 架构.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/标准工作流.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/审批与状态转换.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/两阶段设计.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/Worker 生命周期.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/AsyncLocalStorage 上下文隔离.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/三种后端.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/Fork 消息构建.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/Fork 子 Agent.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/上下文隔离深度解析.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/工具过滤流水线.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/AgentTool 调用完整流程.excalidraw.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/三种多 Agent 模式.excalidraw.md",
     "002.AI/005.learn claude code/002.能力系统/003.Hooks 与可扩展性.md",
+    "002.AI/005.learn claude code/002.能力系统/drawing/与权限系统的竞速.excalidraw.md",
     "002.AI/005.learn claude code/002.能力系统/drawing/三层来源与策略控制.excalidraw.md",
     "002.AI/005.learn claude code/002.能力系统/drawing/Hook 执行引擎.excalidraw.md",
     "002.AI/005.learn claude code/002.能力系统/002.代码编辑策略.md",
     "002.AI/005.learn claude code/002.能力系统/drawing/与工具系统的整合.excalidraw.md",
     "002.AI/005.learn claude code/002.能力系统/001.工具系统.md",
-    "002.AI/005.learn claude code/002.能力系统/drawing/工具执行生命周期.excalidraw.md",
     "002.AI/005.learn claude code/002.能力系统/drawing",
-    "002.AI/005.learn claude code/002.能力系统/drawing/工具注册表与组装.excalidraw.md",
     "002.AI/005.learn claude code/002.能力系统/assets/Pasted Image 20260404125748_708.svg",
-    "002.AI/005.learn claude code/002.能力系统/drawing/连接状态机.excalidraw.md",
     "002.AI/005.learn claude code/002.能力系统/assets",
-    "002.AI/005.learn claude code/002.能力系统/drawing/子 Agent 生命周期.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
     "002.AI/005.learn claude code/002.能力系统",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/002.LangChain 1.0中Agent开发的核心组件.md",
-    "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
     "005.综合",
     "004.后端/001.Python/002.工具/assets/Pasted image 20260331110406.png",
     "004.后端/001.Python/002.工具/assets",
-    "004.后端/001.Python/002.工具/003.Pydantic.md",
-    "004.后端/001.Python/002.工具/002.typing类型提示.md",
-    "004.后端/001.Python/002.工具/001.python-dotenv库用法.md",
     "004.后端/001.Python/002.工具",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173959.png",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173748.png",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173548.png",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173456.png",
     "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/assets/Pasted image 20260401173359.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/012.协程.md",
-    "004.后端/001.Python/001.菜鸟教程-Python/002.进阶/011.进程与线程.md",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401105200.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401105157.png",
     "004.后端/001.Python/001.菜鸟教程-Python/001.基础/assets/Pasted image 20260401104847.png",
-    "004.后端/001.Python/001.菜鸟教程-Python/001.基础/012.面向对象.md",
     "002.AI/006.源码分析/assets",
-    "002.AI/006.源码分析/001.Mem0 源码实现与原理解析.md",
     "002.AI/006.源码分析",
-    "002.AI/005.learn claude code/001.核心架构/drawing/核心架构图.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/双层生成器架构.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/架构总览.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/数据流全景.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/启动流程.excalidraw.md",
     "002.AI/005.learn claude code/001.核心架构/drawing",
     "002.AI/005.learn claude code/001.核心架构"
   ]
