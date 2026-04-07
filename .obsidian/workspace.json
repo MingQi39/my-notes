@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "48b7a0045a71783d",
+        "id": "0f4104b0df5b92b8",
         "type": "tabs",
         "children": [
           {
-            "id": "6642a7fed9d95693",
+            "id": "04eb240ccbafb1a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
+                "file": "001.前端/002.CSS/001.基础/002.@规则（At-rules）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "009.异步处理与 Promise"
-            }
-          },
-          {
-            "id": "d237deb6c879760e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "003.上下文工程"
+              "title": "002.@规则（At-rules）"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
+                "file": "001.前端/002.CSS/001.基础/002.@规则（At-rules）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.上下文工程 的大纲"
+              "title": "002.@规则（At-rules） 的大纲"
             }
           },
           {
@@ -275,10 +260,28 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "04eb240ccbafb1a3",
   "lastOpenFiles": [
-    "002.AI/005.learn claude code/001.核心架构/drawing/压缩后恢复机制.excalidraw.md",
+    "001.前端/002.CSS/001.基础/016.has、is、where 选择器.md",
+    "001.前端/002.CSS/001.基础/015.flex-1 & flex-auto.md",
+    "001.前端/002.CSS/001.基础/014.Grid auto-fill & auto-fit.md",
+    "001.前端/002.CSS/001.基础/013.pointer-events.md",
+    "001.前端/002.CSS/001.基础/012.position-sticky.md",
+    "001.前端/002.CSS/001.基础/011.CSS 深入理解.md",
+    "001.前端/002.CSS/001.基础/009.避免CSS冲突的方案.md",
+    "001.前端/002.CSS/001.基础/010.CSS TIPS.md",
+    "001.前端/002.CSS/001.基础/008.CSS 布局：Flex & Grid.md",
+    "001.前端/002.CSS/001.基础/007.CSS 布局：圣杯、双飞翼.md",
+    "001.前端/002.CSS/001.基础/004.CSS 函数梳理.md",
+    "001.前端/002.CSS/001.基础/006.CSS Reset.md",
+    "001.前端/002.CSS/001.基础/003.@layer.md",
+    "001.前端/002.CSS/001.基础/005.clamp().md",
+    "001.前端/002.CSS/001.基础/002.@规则（At-rules）.md",
+    "001.前端/003.JavaScript/006.设计模式/001.前端常用设计模式.md",
+    "001.前端/003.JavaScript/006.设计模式",
+    "未命名.md",
     "002.AI/005.learn claude code/001.核心架构/003.上下文工程.md",
+    "002.AI/005.learn claude code/001.核心架构/drawing/压缩后恢复机制.excalidraw.md",
     "002.AI/005.learn claude code/001.核心架构/drawing/五级压缩流水线.excalidraw.md",
     "002.AI/005.learn claude code/001.核心架构/002.系统主循环.md",
     "002.AI/005.learn claude code/001.核心架构/drawing/Max-Output-Tokens 恢复.excalidraw.md",
@@ -286,23 +289,7 @@
     "002.AI/005.learn claude code/001.核心架构/drawing/单次循环迭代流程.excalidraw.md",
     "002.AI/005.learn claude code/001.核心架构/drawing/submitMessage() 八阶段生命周期.excalidraw.md",
     "002.AI/005.learn claude code/001.核心架构/001.概述.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/启动流程.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/上下文构建全景.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/双层生成器架构.excalidraw.md",
-    "002.AI/005.learn claude code/000.课程内容说明.md",
     "002.AI/005.learn claude code/001.核心架构",
-    "002.AI/005.learn claude code/001.核心架构/drawing/架构总览.excalidraw.md",
-    "002.AI/005.learn claude code/001.核心架构/drawing/数据流全景.excalidraw.md",
-    "001.前端/003.JavaScript/001.语言与通用/009.异步处理与 Promise.md",
-    "002.AI/003.优秀实践/008.Prompt Caching.md",
-    "002.AI/003.优秀实践/007.Agent Skill.md",
-    "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
-    "002.AI/006.源码分析/001.Mem0 源码实现与原理解析.md",
-    "002.AI/000.AI编程相关资源.md",
-    "002.AI/003.优秀实践/006.ReAct 与 Plan-and-Execute 设计模式.md",
-    "002.AI/003.优秀实践/005.RAG与向量数据库.md",
-    "002.AI/003.优秀实践/004.Agentic Design Patterns ｜ 以ADK为例.md",
-    "002.AI/003.优秀实践/003.分词.md",
     "002.AI/003.优秀实践/assets/Pasted image 20260402193235.png",
     "002.AI/003.优秀实践/assets/Pasted image 20260402192307.png",
     "002.AI/003.优秀实践/assets/agent-desgin-pattern-demo-main.zip",
@@ -315,13 +302,11 @@
     "002.AI/003.优秀实践/assets/Pasted image 20260402174846.png",
     "002.AI/003.优秀实践/assets/Pasted image 20260402174813.png",
     "002.AI/003.优秀实践/assets",
-    "003.工具/002.Markdown/001.markdown公式.md",
     "005.综合",
     "002.AI/006.源码分析/assets",
     "002.AI/006.源码分析",
     "002.AI/005.learn claude code/001.核心架构/drawing",
     "002.AI/005.learn claude code",
-    "004.后端/001.Python/002.工具/assets",
-    "004.后端/001.Python/002.工具"
+    "004.后端/001.Python/002.工具/assets"
   ]
 }
