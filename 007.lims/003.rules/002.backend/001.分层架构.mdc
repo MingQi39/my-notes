@@ -1,0 +1,29 @@
+---
+description: 后端 DDD 分层定义与层间调用约束
+globs: ["**/*.go"]
+---
+
+# 后端分层架构（强制）
+
+## 五层职责
+
+| 层 | 职责 | 禁止 |
+|----|------|------|
+| Handler | 参数校验、响应序列化 | 禁止业务逻辑 |
+| Application | 业务编排、事务管理、审计日志、异步任务提交 | — |
+| Domain | 核心业务规则、领域事件（复杂业务引入） | 禁止依赖基础设施 |
+| Repository | DB CRUD、Redis 操作、自动感知事务 | 禁止业务逻辑，返回领域模型 |
+| Infrastructure | 连接初始化、第三方封装、配置、Wire DI | — |
+
+## 调用规则（强制）
+
+- Handler → Application（一对一）
+- Application → Repository / Domain / Infrastructure
+- Repository → Infrastructure（DI 注入）
+- **禁止反向依赖、禁止跨层、禁止 Handler 直调 Repository**
+
+## 归属规则
+
+- 事务：只在 Application 层 `WithTx()` 开启，禁止嵌套
+- 审计日志：只在 Application 层写入，必须与业务同事务
+- Repository 禁止自动写审计日志

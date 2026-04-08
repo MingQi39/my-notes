@@ -1,0 +1,43 @@
+---
+description: API 路由、统一响应与错误码规范
+globs: ["internal/handler/**", "internal/middleware/**"]
+---
+
+# 后端 API 与响应规范
+
+## 路由
+
+- 前缀 `/api/v{N}/`，RESTful 风格，资源名复数
+- 旧版本标记 `X-API-Deprecated: true`，保持至少 6 个月
+
+## 统一响应格式（强制）
+
+```json
+{"code": 0, "message": "ok", "data": {}, "trace_id": "uuid"}
+```
+
+分页：`data` 内含 `list`, `total`, `page`, `page_size`
+
+## 错误码分段
+
+| 范围 | 含义 |
+|------|------|
+| 0 | 成功 |
+| 40000-40099 | 参数错误 |
+| 40100-40199 | 认证错误 |
+| 40300-40399 | 权限错误 |
+| 40400 | 资源不存在 |
+| 40900 | 冲突/重复 |
+| 42900 | 限流 |
+| 50000 | 内部错误 |
+| 10000-19999 | 样品业务错误 |
+| 20000-29999 | 实验业务错误 |
+| 30000-39999 | 报告业务错误 |
+
+## Middleware 链顺序（强制）
+
+Recovery → Logger → TraceID → Auth(JWT) → RBAC → RateLimit → Idempotency → Validator
+
+## Health Check
+
+- `/healthz` 存活探针 | `/ready` 就绪探针（检查 DB+Redis）| `/metrics` Prometheus

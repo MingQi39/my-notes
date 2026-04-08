@@ -1,0 +1,41 @@
+---
+description: JWT 认证、RBAC 权限与安全防护
+globs: ["internal/middleware/auth*", "internal/pkg/auth/**", "internal/service/auth*"]
+---
+
+# 安全规范（强制）
+
+## JWT
+
+- Access Token 2h / Refresh Token 7d，HS256
+- Claims：`user_id`, `user_name`, `roles`
+- Refresh 使用后加黑名单（Redis），发新 Token 对
+- Secret 通过 K8s Secret 管理，禁止硬编码
+
+## RBAC
+
+- 五表：`users`, `roles`, `permissions`, `user_roles`, `role_permissions`
+- 权限码格式 `{resource}:{action}`（如 `sample:create`）
+- 路由级：`RequirePermission("code")` Middleware
+- 数据行级：Service 层 `WHERE user_id = ?`
+
+## 密码
+
+- bcrypt cost=12，至少 8 位含大小写+数字
+- 登录限流 5 次/分钟
+
+## 安全清单
+
+| 威胁 | 方案 |
+|------|------|
+| SQL 注入 | GORM 参数化，禁止拼 Raw SQL |
+| XSS | `html.EscapeString` |
+| CSRF | SameSite Cookie + Token |
+| CORS | 白名单域名，禁止 `*` |
+| 越权 | RBAC + 行级权限 |
+| 数据泄露 | 密码 bcrypt，PII AES 加密，日志脱敏 |
+| 依赖漏洞 | Trivy + `govulncheck` + `npm audit` |
+
+## 文件上传
+
+- 最大 100MB，扩展名白名单，存储路径 `年/月/日/uuid.ext`

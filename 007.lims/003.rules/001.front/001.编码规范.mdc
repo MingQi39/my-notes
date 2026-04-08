@@ -1,0 +1,37 @@
+---
+description: 前端 TypeScript 与编码规范
+globs: ["**/*.ts", "**/*.tsx"]
+---
+
+# 前端编码规范
+
+## TypeScript（强制）
+
+- 禁止 JavaScript，所有代码必须 TypeScript
+- 禁止 `any`（除非注释说明理由）
+- 组件 Props 必须定义 TS 接口
+
+## 命名
+
+| 类型 | 规则 | 示例 |
+|------|------|------|
+| 文件夹 | kebab-case / PascalCase（组件） | `sample`, `ErrorBoundary` |
+| 变量/函数 | camelCase | `userList`, `onSubmit` |
+| 常量 | UPPER_CASE | `MAX_FILE_SIZE` |
+| 接口/类型 | PascalCase | `SampleListParams` |
+| 组件 | PascalCase | `Permission` |
+| Hooks | use 开头 | `useSampleList` |
+
+## API 函数命名（强制）
+
+- 获取列表 `getXxxList`、详情 `getXxxDetail`、创建 `createXxx`、更新 `updateXxx`、删除 `deleteXxx`
+- 禁止 `fetch` 前缀
+
+## 组件
+
+- 强制函数组件 + Hooks，禁止 Class 组件（ErrorBoundary 除外）
+- 对外回调 Props：`onXxx`；内部处理函数：`handleXxx`
+
+## 工具链
+
+- 构建：Vite | 规范：ESLint + Prettier | 测试：Vitest + Testing Library

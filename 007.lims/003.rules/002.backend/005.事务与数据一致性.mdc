@@ -1,0 +1,36 @@
+---
+description: 事务管理、幂等性与 Outbox Pattern
+globs: ["internal/service/**", "internal/repository/**", "internal/pkg/tx/**"]
+---
+
+# 事务与数据一致性（强制）
+
+## 事务规则
+
+- 只在 Application 层 `TxManager.WithTx()` 开启
+- Repository 通过 `GetDB(ctx, r.db)` 自动感知 tx，无需显式传参
+- 禁止 `WithTx` 嵌套，禁止跨服务事务
+- 事务必须 `context.WithTimeout`，默认 30s
+- 纯读用 `ReadOnly` 事务或直接查询
+- Context Key 用类型安全的 `ctxKey struct{}`
+
+## GORM 配置
+
+- `SkipDefaultTransaction: true`（手动管理事务）
+- 连接池：`MaxOpen: 50-100`, `MaxIdle: 20-30`, `ConnMaxLifetime: 30min`
+
+## 幂等性
+
+- POST/PUT 支持 `X-Idempotency-Key` Header
+- Redis `SetNX` 分布式锁防并发重复，成功响应缓存 24h
+
+## Outbox Pattern
+
+- 异步通知场景在业务事务内写 `outbox_messages` 表
+- Poller 异步投递到队列
+
+## Migration
+
+- `golang-migrate/migrate` 版本化迁移
+- 格式 `000001_描述.up.sql` / `.down.sql`
+- 禁止手动改生产 schema

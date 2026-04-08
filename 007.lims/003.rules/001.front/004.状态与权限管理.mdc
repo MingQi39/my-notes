@@ -1,0 +1,33 @@
+---
+description: Zustand 状态管理与权限控制规范
+globs: ["src/stores/**", "src/components/Permission/**", "src/router/**"]
+---
+
+# 前端状态与权限管理
+
+## 状态分类（强制）
+
+| 类型 | 方案 | 示例 |
+|------|------|------|
+| 服务端状态 | TanStack Query | 列表、详情数据 |
+| 全局客户端状态 | Zustand | 认证信息、用户偏好 |
+| 局部 UI 状态 | useState/useReducer | 表单、弹窗开关 |
+
+- 禁止 Redux / MobX
+- 服务端数据禁止同步到 Zustand
+
+## 权限组件 `<Permission>`
+
+- Props：`auth`(权限码/数组)、`mode`(`any`|`all`)、`fallback`
+- 按钮级权限用 `<Permission>` 包裹
+
+## 路由守卫 `<ProtectedRoute>`
+
+- 未登录 → `/login`（携带 `state.from`）
+- 已登录无权限 → `/403`
+
+## 全局错误捕获
+
+- Error Boundary 包裹根组件，渲染错误展示友好页面
+- `window.error` + `unhandledrejection` 监听，`sendBeacon` 上报
+- 上报字段：`trace_id`, `type`, `message`, `stack`, `url`, `timestamp`

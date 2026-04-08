@@ -1,0 +1,39 @@
+---
+description: 测试策略、Code Review 与通用约束
+alwaysApply: true
+---
+
+# 质量保障与通用约束
+
+## 测试目标
+
+| 层级 | 工具 | 覆盖率 |
+|------|------|--------|
+| 后端单测 | go test + testify | >= 70% |
+| 后端集成 | testcontainers | 核心流程 100% |
+| 前端单测 | Vitest + Testing Library | >= 60% |
+| E2E | Playwright | 核心路径 |
+
+## Code Review 必检项
+
+- 错误处理是否充分
+- 写操作是否在事务中 + 有审计日志
+- 是否透传 trace_id
+- 参数校验 + 权限校验
+- 慢查询风险（N+1、缺索引）
+- 缓存一致性 + 并发安全
+- 是否有单测
+
+## 告警规则
+
+| 告警 | 条件 | 级别 |
+|------|------|------|
+| 5xx 错误率 | > 5% 持续 5min | critical |
+| P95 延迟 | > 2s 持续 5min | warning |
+| 异步任务失败 | 失败率偏高 | warning |
+| Pod CPU | > 90% 持续 10min | warning |
+
+## 通用约束
+
+- 文档和注释用中文，代码命名用英文
+- 可观测性三支柱：Metrics(Prometheus) + Logs(Loki) + Traces(Jaeger)

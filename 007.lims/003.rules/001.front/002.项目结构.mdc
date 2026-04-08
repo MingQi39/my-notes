@@ -1,0 +1,28 @@
+---
+description: 前端目录结构约束
+globs: ["src/**"]
+---
+
+# 前端项目结构（强制）
+
+```
+src/
+├── api/            # API 接口（client.ts + 按模块拆分）
+├── components/     # 通用可复用组件（每个独立目录）
+├── hooks/          # 自定义 Hooks（React Query hooks 按模块拆分）
+├── layouts/        # 布局组件
+├── pages/          # 页面（按业务模块建子目录）
+├── router/         # 路由配置 + 守卫
+├── stores/         # Zustand 状态（按模块拆分，暴露 useXxxStore）
+├── utils/          # 工具函数（trace.ts, errorReport.ts 等）
+├── App.tsx
+└── main.tsx
+```
+
+## 约束
+
+- 通用组件（多处复用）→ `src/components/`
+- 页面专用组件（仅单页使用）→ 对应 `pages/` 子目录内
+- 禁止将单页组件放入 `src/components/`
+- 禁止在 `src/` 下新建非标准目录
+- API 文件统一使用 `api/client.ts` 的 Axios 实例
