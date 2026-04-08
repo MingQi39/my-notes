@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "19b726565d06425f",
+        "id": "e9da62e8268c532e",
         "type": "tabs",
         "children": [
           {
-            "id": "c202c28214a80073",
+            "id": "c9acdd1697dd5938",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "002.AI/002.马士兵-应用开发/003.RAG/001.Agentic RAG.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "001.Agentic RAG"
             }
           }
         ]
@@ -136,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "002.AI/002.马士兵-应用开发/003.RAG/001.Agentic RAG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "001.Agentic RAG 的大纲"
             }
           },
           {
@@ -265,6 +270,16 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
+    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260408085712.png",
+    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260408085316.png",
+    "002.AI/002.马士兵-应用开发/003.RAG/assets",
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/001.概述.md",
+    "002.AI/002.马士兵-应用开发/003.RAG/001.Agentic RAG.md",
+    "002.AI/002.马士兵-应用开发/003.RAG",
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/003.LangChain 1.0中Agent开发的核心组件.md",
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/002.LangChain 1.0 介绍.md",
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing/Deep Agents.excalidraw.md",
+    "002.AI/002.马士兵-应用开发/002.LangChain V1/003.Agent中的中间件.md",
     "006.职场实践/002.工程架构/assets/Pasted image 20260326152124.png",
     "006.职场实践/002.工程架构/assets/Pasted image 20250630204545.png",
     "006.职场实践/001.代码片段/003.css/001.文本溢出省略.md",
@@ -293,7 +308,6 @@
     "006.职场实践/003.软技能",
     "006.职场实践/002.工程架构",
     "006.职场实践/001.代码片段",
-    "006.职场实践",
     "002.AI/007.日常使用/assets/Pasted image 20260326112452.png",
     "002.AI/007.日常使用/assets/Pasted image 20260326112622.png",
     "002.AI/007.日常使用/assets/Pasted image 20260326111622.png",
@@ -301,15 +315,6 @@
     "002.AI/007.日常使用/assets/Pasted image 20260326112404.png",
     "002.AI/007.日常使用/assets/Pasted image 20260326111731.png",
     "002.AI/007.日常使用/assets/Pasted image 20260326111554.png",
-    "002.AI/007.日常使用/assets/Pasted image 20260326111549.png",
-    "002.AI/007.日常使用/assets/Pasted image 20260326111515.png",
-    "002.AI/007.日常使用/assets",
-    "002.AI/007.日常使用/002.Cursor 一年深度开发实践.md",
-    "002.AI/007.日常使用/001.用 AI 重构屎山代码.md",
-    "002.AI/005.learn claude code/016.最小必要组件.md",
-    "002.AI/005.learn claude code/015.持久化机制与恢复.md",
-    "002.AI/005.learn claude code/014.Plan 模式.md",
-    "002.AI/005.learn claude code/013.Hooks 与可扩展性.md",
-    "002.AI/005.learn claude code/012.用户体验设计.md"
+    "002.AI/007.日常使用/002.Cursor 一年深度开发实践.md"
   ]
 }
