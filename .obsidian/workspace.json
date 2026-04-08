@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9da62e8268c532e",
+        "id": "8a9889536a693485",
         "type": "tabs",
         "children": [
           {
-            "id": "c9acdd1697dd5938",
+            "id": "7260cc69659cc87b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.AI/002.马士兵-应用开发/003.RAG/001.Agentic RAG.md",
+                "file": "007.lims/002.技术文档/001.架构设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.Agentic RAG"
+              "title": "001.架构设计"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/002.马士兵-应用开发/003.RAG/001.Agentic RAG.md",
+                "file": "007.lims/002.技术文档/001.架构设计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001.Agentic RAG 的大纲"
+              "title": "001.架构设计 的大纲"
             }
           },
           {
@@ -242,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -268,53 +268,53 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c9acdd1697dd5938",
+  "active": "7260cc69659cc87b",
   "lastOpenFiles": [
-    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260408090539.png",
-    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260408085712.png",
-    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260408085316.png",
-    "002.AI/002.马士兵-应用开发/003.RAG/assets",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/001.概述.md",
-    "002.AI/002.马士兵-应用开发/003.RAG/001.Agentic RAG.md",
-    "002.AI/002.马士兵-应用开发/003.RAG",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/003.LangChain 1.0中Agent开发的核心组件.md",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/002.LangChain 1.0 介绍.md",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/drawing/Deep Agents.excalidraw.md",
-    "002.AI/002.马士兵-应用开发/002.LangChain V1/003.Agent中的中间件.md",
-    "006.职场实践/002.工程架构/assets/Pasted image 20260326152124.png",
-    "006.职场实践/002.工程架构/assets/Pasted image 20250630204545.png",
-    "006.职场实践/001.代码片段/003.css/001.文本溢出省略.md",
-    "006.职场实践/001.代码片段/001.js/004.ResizeObserver.md",
-    "006.职场实践/001.代码片段/004.react/001.文本省略显示 Tooltip.md",
-    "006.职场实践/001.代码片段/002.ts/001.PartialByKeys.md",
-    "006.职场实践/001.代码片段/001.js/010.number 格式化输出.md",
-    "006.职场实践/001.代码片段/001.js/009.sticky 模拟.md",
-    "006.职场实践/001.代码片段/001.js/008.canScroll.md",
-    "006.职场实践/001.代码片段/001.js/002.file2url.md",
-    "006.职场实践/001.代码片段/001.js/007.removeChild 安全处理.md",
-    "006.职场实践/001.代码片段/001.js/001.刷新页面.md",
-    "006.职场实践/001.代码片段/001.js/006.关键词高亮.md",
-    "006.职场实践/001.代码片段/001.js/005.MutationObserver.md",
-    "006.职场实践/001.代码片段/001.js/003.SearchParams.md",
-    "006.职场实践/003.软技能/003.“第一性原理”：如何做技术决策.md",
-    "006.职场实践/003.软技能/002.代码 Review 的艺术.md",
-    "006.职场实践/003.软技能/001.Leader-技术选型、排期、带新人.md",
-    "006.职场实践/002.工程架构/assets",
-    "006.职场实践/002.工程架构/002.BFF.md",
-    "006.职场实践/002.工程架构/001.DDD-领域驱动设计.md",
-    "006.职场实践/001.代码片段/004.react",
-    "006.职场实践/001.代码片段/003.css",
-    "006.职场实践/001.代码片段/002.ts",
-    "006.职场实践/001.代码片段/001.js",
-    "006.职场实践/003.软技能",
-    "006.职场实践/002.工程架构",
-    "006.职场实践/001.代码片段",
-    "002.AI/007.日常使用/assets/Pasted image 20260326112452.png",
+    "001.前端/002.CSS/001.基础/003.CSS Reset.md",
+    "001.前端/002.CSS/001.基础/005.CSS 布局：Flex & Grid.md",
+    "001.前端/002.CSS/001.基础/008.CSS 深入理解.md",
+    "001.前端/002.CSS/001.基础/009.position-sticky.md",
+    "001.前端/002.CSS/001.基础/006.避免CSS冲突的方案.md",
+    "001.前端/002.CSS/001.基础/004.CSS 布局：圣杯、双飞翼.md",
+    "001.前端/002.CSS/001.基础/002.@layer.md",
+    "001.前端/002.CSS/001.基础/011.Grid auto-fill & auto-fit.md",
+    "001.前端/002.CSS/001.基础/010.pointer-events.md",
+    "001.前端/002.CSS/001.基础/007.CSS TIPS.md",
+    "007.lims/001.需求文档/002.prd-2.md",
+    "007.lims/001.需求文档/001.prd-1.md",
+    "007.lims/001.需求文档/003.原型.md",
+    "007.lims/002.技术文档/001.架构设计.md",
+    "002.AI/005.learn claude code/000.Harness Engineering.md",
+    "007.lims/002.技术文档",
+    "007.lims/001.需求文档",
+    "007.lims",
+    "002.AI/005.learn claude code/000.目录.md",
+    "002.AI/005.learn claude code/000.课程内容说明.md",
+    "002.AI/005.learn claude code/016.最小必要组件.md",
+    "002.AI/005.learn claude code/015.持久化机制与恢复.md",
+    "002.AI/005.learn claude code/014.Plan 模式.md",
+    "002.AI/005.learn claude code/013.Hooks 与可扩展性.md",
+    "002.AI/005.learn claude code/012.用户体验设计.md",
+    "002.AI/005.learn claude code/011.权限与安全.md",
+    "002.AI/005.learn claude code/010.记忆系统.md",
+    "002.AI/005.learn claude code/009.多 Agent 架构.md",
+    "002.AI/005.learn claude code/008.代码编辑策略.md",
+    "001.前端/001.HTML/assets/一键禁用整个表单.webp",
+    "001.前端/001.HTML/assets/弹窗组件.webp",
+    "001.前端/001.HTML/assets/Pasted image 20260407145725.png",
+    "001.前端/001.HTML/assets/Pasted image 20260407145642.png",
+    "001.前端/001.HTML/assets/一键禁用整个表单.webp.crdownload",
+    "001.前端/001.HTML/assets/弹窗组件.webp.crdownload",
+    "001.前端/001.HTML/assets/折叠组件.webp",
+    "001.前端/001.HTML/assets",
+    "002.AI/007.日常使用/assets/Pasted image 20260326110814.png",
+    "002.AI/007.日常使用/assets/Pasted image 20260326110643.png",
+    "002.AI/007.日常使用/assets/Pasted image 20260323150603.png",
+    "002.AI/007.日常使用/assets/Pasted image 20260323150447.png",
     "002.AI/007.日常使用/assets/Pasted image 20260326112622.png",
-    "002.AI/007.日常使用/assets/Pasted image 20260326111622.png",
-    "002.AI/007.日常使用/assets/Pasted image 20260326112518.png",
-    "002.AI/007.日常使用/assets/Pasted image 20260326112404.png",
-    "002.AI/007.日常使用/assets/Pasted image 20260326111731.png",
-    "002.AI/007.日常使用/002.Cursor 一年深度开发实践.md"
+    "002.AI/007.日常使用/assets",
+    "002.AI/007.日常使用",
+    "006.职场实践/001.代码片段/001.js",
+    "006.职场实践/001.代码片段/004.react"
   ]
 }
