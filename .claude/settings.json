@@ -12,7 +12,10 @@
       "Bash(git add:*)",
       "Bash(curl -s https://raw.githubusercontent.com/phibr0/obsidian-github/main/README.md)",
       "WebSearch",
-      "Bash(cat .git/config | grep -A 2 '\\\\[remote \"origin\"\\\\]')"
+      "Bash(cat .git/config | grep -A 2 '\\\\[remote \"origin\"\\\\]')",
+      "Bash(python3 -c \"\nimport re\n\nwith open\\('007.lims/002.技术方案/002.LIMS 全栈技术详解（前端视角版）.md', 'r', encoding='utf-8'\\) as f:\n    content = f.read\\(\\)\n\n# 1. 修复代码块头部：去掉 :file:line 格式，只保留语言标识\n# 匹配 \\\\`\\\\`\\\\`数字:数字:文件名 或 \\\\`\\\\`\\\\`数字:数字:路径/文件名 格式\ncontent = re.sub\\(r'\\\\`\\\\`\\\\`\\\\d+:\\\\d+:', lambda m: '\\\\`\\\\`\\\\`' + m.group\\(0\\).split\\(':'\\)[-1].split\\('.'\\)[-1] + '\\\\n', content\\)\n\n# 处理可能的 \\\\`\\\\`\\\\`.go 格式（已有语言标识的）\n# 先把所有 \\\\`\\\\`\\\\`开头的行统一处理\ndef fix_code_start\\(match\\):\n    rest = match.group\\(1\\)\n    # 提取语言：取冒号后最后一段，用点分割取最后一部分\n    parts = rest.split\\(':'\\)\n    filename = parts[-1]\n    if '.' in filename:\n        lang = filename.rsplit\\('.', 1\\)[-1]\n    else:\n        # 常见语言映射\n        mapping = {'go': 'go', 'ts': 'typescript', 'typescript': 'typescript', \n                   'js': 'javascript', 'bash': 'bash', 'sh': 'bash', 'yaml': 'yaml',\n                   'json': 'json', 'sql': 'sql', 'dockerfile': 'dockerfile', 'makefile': 'makefile',\n                   'yml': 'yaml', 'tsx': 'tsx', 'jsx': 'jsx'}\n        lang = mapping.get\\(filename, filename\\)\n    return '\\\\`\\\\`\\\\`' + lang + '\\\\n'\n\n# 重新处理：先去掉行号，再提取语言\ncontent = re.sub\\(r'\\\\`\\\\`\\\\`\\\\d+:\\\\d+:', lambda m: '```' + m.group\\(0\\).split\\(':'\\)[-1].split\\('.'\\)[-1] + '\\\\n', content\\)\n\n# 2. 减少多余空行：把3个及以上连续空行替换为2个\ncontent = re.sub\\(r'\\\\n{3,}', '\\\\n\\\\n', content\\)\n\nwith open\\('007.lims/002.技术方案/002.LIMS 全栈技术详解（前端视角版）.md', 'w', encoding='utf-8'\\) as f:\n    f.write\\(content\\)\n\nprint\\('格式化完成'\\)\nprint\\(f'文件大小: {len\\(content\\)} 字符'\\)\n\")",
+      "Bash(python3 format_fix.py)",
+      "Bash(sed -n '52,58p' '007.lims/002.技术方案/002.LIMS 全栈技术详解（前端视角版）.md' | cat -A)"
     ]
   }
 }
