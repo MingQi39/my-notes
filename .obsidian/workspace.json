@@ -31,8 +31,7 @@
               "title": "原型图1.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "7182bae17f9f03f1",
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
+                "file": "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "原型图1.excalidraw 的反向链接列表"
+              "title": "原型图.excalidraw 的反向链接列表"
             }
           },
           {
@@ -153,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
+                "file": "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原型图1.excalidraw 的大纲"
+              "title": "原型图.excalidraw 的大纲"
             }
           },
           {
@@ -246,12 +244,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,32 +273,51 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
+    "007.lims/001.产品文档/drawing/assets/Pasted Image 20260419154139_506.png",
+    "007.lims/001.产品文档/drawing/assets/Pasted Image 20260419143127_610.png",
+    "007.lims/001.产品文档/drawing/assets",
+    "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
+    "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/逻辑结构.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/物理架构.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/应用程序的访问架构.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/存储结构.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/存储结构.excalidraw 1.md",
+    "008.数据库/001.postgreSQL/drawing/repmgr.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/pool.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/pgpool读写分离.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/mycat.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/keepalived.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/Mycat（分表分库）.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/HA.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing",
+    "008.数据库/001.postgreSQL/002.高可用解决方案.md",
+    "008.数据库/001.postgreSQL/001.体系结构.md",
+    "008.数据库/001.postgreSQL/000.课程说明.md",
+    "008.数据库/001.postgreSQL",
+    "008.数据库",
+    "001.前端/008.前端框架/001.React/004.实践/001.SSR Hydration 不匹配问题工程化治理方案.md",
+    "007.lims/001.产品文档/drawing",
+    "007.lims/001.产品文档",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名.md",
+    "assets/Pasted Image 20260410222117_705.png",
+    "assets/Pasted Image 20260410221638_313.png",
+    "assets/Pasted Image 20260410220823_402.png",
+    "assets/Pasted Image 20260410220700_544.png",
+    "assets/Pasted Image 20260410214958_543.png",
+    "assets/Pasted Image 20260410214942_642.png",
+    "assets/Pasted image 20260410214926.png",
+    "assets",
+    "002.AI/002.马士兵-应用开发/003.RAG/001.Agentic RAG.md",
     "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260410083633.png",
     "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260410081736.png",
     "002.AI/002.马士兵-应用开发/003.RAG/drawing/mcp通信.excalidraw.md",
     "002.AI/002.马士兵-应用开发/003.RAG/drawing",
-    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260409214239.png",
     "002.AI/005.learn claude code/001.架构与程序入口.md",
-    "format_fix.py",
     "007.lims/002.技术方案/drawing/本地开发.excalidraw.md",
     "007.lims/002.技术方案/drawing/客户私有化部署.excalidraw.md",
-    "007.lims/002.技术方案/drawing/完整的技术栈地图.excalidraw.md",
-    "007.lims/002.技术方案/drawing/云端 ECS 部署.excalidraw.md",
-    "007.lims/002.技术方案/drawing",
-    "fix_format.py",
-    "format_fix.py",
-    "007.lims/002.技术方案/001.LIMS 技术架构方案.md",
-    "001.前端/003.JavaScript/001.语言与通用/014.Object.defineProperty.md",
-    "002.AI/005.learn claude code/000.目录.md",
-    "未命名.base",
-    "002.AI/005.learn claude code/011.权限与安全.md",
-    "007.lims/003.rules/README.md",
-    "007.lims/003.rules/003.common/003.质量保障与通用约束.mdc",
-    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260408090539.png",
-    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260408085712.png",
-    "001.前端/001.HTML/assets/一键禁用整个表单.webp",
-    "001.前端/001.HTML/assets/弹窗组件.webp",
-    "001.前端/001.HTML/assets/Pasted image 20260407145725.png",
-    "001.前端/001.HTML/assets/Pasted image 20260407145642.png"
+    "007.lims/002.技术方案/drawing/完整的技术栈地图.excalidraw.md"
   ]
 }
