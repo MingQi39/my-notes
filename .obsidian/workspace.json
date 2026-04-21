@@ -4,31 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "9a126af0af3d8b9a",
+        "id": "553df30a25f16284",
         "type": "tabs",
         "children": [
           {
-            "id": "a6d6f08eb499b8ed",
+            "id": "beb1d388b4d2b99b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "007.lims/001.产品文档/drawing/原型图.excalidraw.md"
+                "file": "002.AI/006.源码分析/002.claude code 源码解析.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "原型图.excalidraw"
+              "icon": "lucide-file",
+              "title": "002.claude code 源码解析"
             }
           },
           {
-            "id": "da2b2935b09f4621",
+            "id": "71279e93d21b7218",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "007.lims/001.产品文档/drawing/原型图1.excalidraw.md"
+                "file": "002.AI/006.源码分析/一条消息的完整旅程.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "原型图1.excalidraw"
+              "title": "一条消息的完整旅程.excalidraw"
             }
           }
         ]
@@ -88,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "7182bae17f9f03f1",
@@ -104,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "原型图.excalidraw 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -151,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
+                "file": "002.AI/006.源码分析/002.claude code 源码解析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "原型图.excalidraw 的大纲"
+              "title": "002.claude code 源码解析 的大纲"
             }
           },
           {
@@ -249,7 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,51 +275,51 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
-    "007.lims/001.产品文档/drawing/assets/Pasted Image 20260419154139_506.png",
-    "007.lims/001.产品文档/drawing/assets/Pasted Image 20260419143127_610.png",
-    "007.lims/001.产品文档/drawing/assets",
-    "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
+    "002.AI/006.源码分析/assets/Pasted image 20260421112011.png",
+    "002.AI/006.源码分析/assets/Pasted image 20260421110358.png",
+    "002.AI/006.源码分析/MCP核心架构.excalidraw.md",
+    "002.AI/006.源码分析/002.claude code 源码解析.md",
+    "002.AI/006.源码分析/assets/Pasted image 20260420152246.png",
+    "002.AI/006.源码分析/assets/Pasted image 20260420145411.png",
+    "002.AI/006.源码分析/assets/Pasted image 20260420144257.png",
+    "002.AI/006.源码分析/assets/Pasted image 20260420143613.png",
+    "002.AI/006.源码分析/assets/Pasted image 20260420140253.png",
+    "002.AI/005.learn claude code/001.架构与程序入口.md",
+    "002.AI/006.源码分析/assets/Pasted image 20260420112827.png",
+    "002.AI/006.源码分析/一条消息的完整旅程.excalidraw.md",
+    "002.AI/006.源码分析/assets/Pasted image 20260420111140.png",
+    "002.AI/006.源码分析/cc整体架构.excalidraw.md",
+    "002.AI/006.源码分析/assets/Pasted image 20260420105623.png",
     "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/逻辑结构.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/物理架构.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/应用程序的访问架构.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/存储结构.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/存储结构.excalidraw 1.md",
-    "008.数据库/001.postgreSQL/drawing/repmgr.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/pool.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/pgpool读写分离.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/mycat.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/keepalived.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/Mycat（分表分库）.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/HA.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing",
+    "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
+    "007.lims/001.产品文档/drawing/assets/Pasted Image 20260419154139_506.png",
+    "007.lims/001.产品文档/drawing/assets",
+    "002.AI/004.LangChain/003 2.输出解析：让模型返回结构化数据.md",
     "008.数据库/001.postgreSQL/002.高可用解决方案.md",
     "008.数据库/001.postgreSQL/001.体系结构.md",
-    "008.数据库/001.postgreSQL/000.课程说明.md",
-    "008.数据库/001.postgreSQL",
-    "008.数据库",
-    "001.前端/008.前端框架/001.React/004.实践/001.SSR Hydration 不匹配问题工程化治理方案.md",
+    "008.数据库/001.postgreSQL/003.主从复制.md",
+    "002.AI/004.LangChain/003.输出解析：让模型返回结构化数据 2.md",
+    "008.数据库/001.postgreSQL/drawing/逻辑复制原理.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/主从复制.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/Greenplum.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/Postgre-XL.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/citus.excalidraw.md",
+    "assets",
     "007.lims/001.产品文档/drawing",
     "007.lims/001.产品文档",
-    "未命名.base",
-    "未命名 1.base",
-    "未命名.md",
-    "assets/Pasted Image 20260410222117_705.png",
-    "assets/Pasted Image 20260410221638_313.png",
-    "assets/Pasted Image 20260410220823_402.png",
-    "assets/Pasted Image 20260410220700_544.png",
-    "assets/Pasted Image 20260410214958_543.png",
-    "assets/Pasted Image 20260410214942_642.png",
-    "assets/Pasted image 20260410214926.png",
-    "assets",
-    "002.AI/002.马士兵-应用开发/003.RAG/001.Agentic RAG.md",
-    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260410083633.png",
-    "002.AI/002.马士兵-应用开发/003.RAG/assets/Pasted image 20260410081736.png",
-    "002.AI/002.马士兵-应用开发/003.RAG/drawing/mcp通信.excalidraw.md",
+    "008.数据库/001.postgreSQL/000.课程说明.md",
+    "008.数据库/001.postgreSQL/drawing/Mycat（分表分库）.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/HA.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/repmgr.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/mycat.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/pgpool读写分离.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/pool.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing/keepalived.excalidraw.md",
+    "008.数据库/001.postgreSQL/drawing",
+    "008.数据库/001.postgreSQL",
+    "008.数据库",
     "002.AI/002.马士兵-应用开发/003.RAG/drawing",
-    "002.AI/005.learn claude code/001.架构与程序入口.md",
-    "007.lims/002.技术方案/drawing/本地开发.excalidraw.md",
-    "007.lims/002.技术方案/drawing/客户私有化部署.excalidraw.md",
-    "007.lims/002.技术方案/drawing/完整的技术栈地图.excalidraw.md"
+    "007.lims/002.技术方案/drawing",
+    "fix_format.py"
   ]
 }
