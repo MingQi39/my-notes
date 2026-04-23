@@ -4,33 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "553df30a25f16284",
+        "id": "f3313419fd68e258",
         "type": "tabs",
         "children": [
           {
-            "id": "beb1d388b4d2b99b",
+            "id": "92d29e7d2757f19e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002.AI/006.源码分析/002.claude code 源码解析.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "002.claude code 源码解析"
-            }
-          },
-          {
-            "id": "71279e93d21b7218",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "002.AI/006.源码分析/一条消息的完整旅程.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "一条消息的完整旅程.excalidraw"
+              "title": "新标签页"
             }
           }
         ]
@@ -90,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "7182bae17f9f03f1",
@@ -153,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/006.源码分析/002.claude code 源码解析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002.claude code 源码解析 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -170,18 +152,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "93ea515af3e28d1a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "pinned": true,
-              "icon": "bot",
-              "title": "Claudian"
             }
           },
           {
@@ -251,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,7 +235,7 @@
       "publish:发布更改": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "claudian:Open Claudian": false,
       "terminal:Open terminal": false,
@@ -273,26 +243,28 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "92d29e7d2757f19e",
   "lastOpenFiles": [
-    "002.AI/006.源码分析/assets/Pasted image 20260421112011.png",
-    "002.AI/006.源码分析/assets/Pasted image 20260421110358.png",
-    "002.AI/006.源码分析/MCP核心架构.excalidraw.md",
-    "002.AI/006.源码分析/002.claude code 源码解析.md",
-    "002.AI/006.源码分析/assets/Pasted image 20260420152246.png",
-    "002.AI/006.源码分析/assets/Pasted image 20260420145411.png",
-    "002.AI/006.源码分析/assets/Pasted image 20260420144257.png",
-    "002.AI/006.源码分析/assets/Pasted image 20260420143613.png",
-    "002.AI/006.源码分析/assets/Pasted image 20260420140253.png",
-    "002.AI/005.learn claude code/001.架构与程序入口.md",
-    "002.AI/006.源码分析/assets/Pasted image 20260420112827.png",
-    "002.AI/006.源码分析/一条消息的完整旅程.excalidraw.md",
-    "002.AI/006.源码分析/assets/Pasted image 20260420111140.png",
-    "002.AI/006.源码分析/cc整体架构.excalidraw.md",
-    "002.AI/006.源码分析/assets/Pasted image 20260420105623.png",
+    "007.lims/001.产品文档/需求.md",
     "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
     "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
-    "007.lims/001.产品文档/drawing/assets/Pasted Image 20260419154139_506.png",
+    "002.AI/000.AI编程相关资源.md",
+    "001.前端/008.前端框架/001.React/002.React18原理/drawing/001.multi-repo vs mono-repo.excalidraw.md",
+    "007.lims/001.产品文档/assets/Pasted Image 20260419143127_610.png",
+    "007.lims/001.产品文档/assets/Pasted Image 20260419154139_506.png",
+    "007.lims/001.产品文档/assets/Pasted Image 20260410214942_642.png",
+    "007.lims/001.产品文档/assets/Pasted image 20260410214926.png",
+    "002.AI/006.源码分析/002.claude code 源码解析.md",
+    "007.lims/001.产品文档/assets/Pasted Image 20260410222117_705.png",
+    "007.lims/001.产品文档/assets/Pasted Image 20260410221638_313.png",
+    "007.lims/001.产品文档/assets/Pasted Image 20260410220823_402.png",
+    "007.lims/001.产品文档/assets/Pasted Image 20260410220700_544.png",
+    "007.lims/001.产品文档/assets/Pasted Image 20260410214958_543.png",
+    "002.AI/006.源码分析/assets/一条消息的完整旅程.excalidraw.md",
+    "002.AI/006.源码分析/assets/Pasted image 20260421112011.png",
+    "002.AI/006.源码分析/assets/MCP核心架构.excalidraw.md",
+    "002.AI/005.learn claude code/001.架构与程序入口.md",
+    "002.AI/006.源码分析/assets/cc整体架构.excalidraw.md",
     "007.lims/001.产品文档/drawing/assets",
     "002.AI/004.LangChain/003 2.输出解析：让模型返回结构化数据.md",
     "008.数据库/001.postgreSQL/002.高可用解决方案.md",
@@ -304,7 +276,7 @@
     "008.数据库/001.postgreSQL/drawing/Greenplum.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing/Postgre-XL.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing/citus.excalidraw.md",
-    "assets",
+    "007.lims/001.产品文档/assets",
     "007.lims/001.产品文档/drawing",
     "007.lims/001.产品文档",
     "008.数据库/001.postgreSQL/000.课程说明.md",
@@ -313,8 +285,6 @@
     "008.数据库/001.postgreSQL/drawing/repmgr.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing/mycat.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing/pgpool读写分离.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/pool.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/keepalived.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing",
     "008.数据库/001.postgreSQL",
     "008.数据库",
