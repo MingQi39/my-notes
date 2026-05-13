@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92d29e7d2757f19e",
+            "id": "752382e735524e77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "002.AI/sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "7182bae17f9f03f1",
@@ -136,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "002.AI/sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解 的大纲"
             }
           },
           {
@@ -221,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 491.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,27 +249,41 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "92d29e7d2757f19e",
+  "active": "752382e735524e77",
   "lastOpenFiles": [
+    "002.AI/sitor.ai学习/assets/Pasted image 20260513094159.png",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260513094140.png",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260512184108.png",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260512183758.png",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260512183051.png",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260512182621.png",
+    "002.AI/sitor.ai学习/002.从 ChatBot 到 Agent：一个 while 循环，凭什么让 AI 从\"能聊天\"变成\"能干活\"？.md",
+    "002.AI/sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260512141239.png",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260511113841.png",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260511110307.png",
+    "未命名.base",
+    "002.AI/sitor.ai学习/001.Agent六大支柱.md",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260509110329.png",
+    "002.AI/sitor.ai学习/assets/Pasted image 20260507154925.png",
+    "002.AI/sitor.ai学习/assets",
+    "002.AI/sitor.ai学习/000.课程来源.md",
+    "002.AI/005.learn claude code/000.目录.md",
+    "002.AI/sitor.ai学习",
+    "002.AI/005.learn claude code/005.工具系统.md",
+    "002.AI/005.learn claude code/004.系统提示词的设计哲学.md",
+    "002.AI/005.learn claude code/003.上下文工程.md",
+    "002.AI/005.learn claude code/002.系统主循环.md",
+    "002.AI/005.learn claude code/001.架构与程序入口.md",
+    "002.AI/005.learn claude code/000.Harness Engineering.md",
     "007.lims/001.产品文档/需求.md",
     "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
     "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
     "002.AI/000.AI编程相关资源.md",
     "001.前端/008.前端框架/001.React/002.React18原理/drawing/001.multi-repo vs mono-repo.excalidraw.md",
-    "007.lims/001.产品文档/assets/Pasted Image 20260419143127_610.png",
-    "007.lims/001.产品文档/assets/Pasted Image 20260419154139_506.png",
-    "007.lims/001.产品文档/assets/Pasted Image 20260410214942_642.png",
-    "007.lims/001.产品文档/assets/Pasted image 20260410214926.png",
     "002.AI/006.源码分析/002.claude code 源码解析.md",
-    "007.lims/001.产品文档/assets/Pasted Image 20260410222117_705.png",
-    "007.lims/001.产品文档/assets/Pasted Image 20260410221638_313.png",
-    "007.lims/001.产品文档/assets/Pasted Image 20260410220823_402.png",
-    "007.lims/001.产品文档/assets/Pasted Image 20260410220700_544.png",
-    "007.lims/001.产品文档/assets/Pasted Image 20260410214958_543.png",
     "002.AI/006.源码分析/assets/一条消息的完整旅程.excalidraw.md",
-    "002.AI/006.源码分析/assets/Pasted image 20260421112011.png",
     "002.AI/006.源码分析/assets/MCP核心架构.excalidraw.md",
-    "002.AI/005.learn claude code/001.架构与程序入口.md",
     "002.AI/006.源码分析/assets/cc整体架构.excalidraw.md",
     "007.lims/001.产品文档/drawing/assets",
     "002.AI/004.LangChain/003 2.输出解析：让模型返回结构化数据.md",
@@ -271,25 +291,11 @@
     "008.数据库/001.postgreSQL/001.体系结构.md",
     "008.数据库/001.postgreSQL/003.主从复制.md",
     "002.AI/004.LangChain/003.输出解析：让模型返回结构化数据 2.md",
-    "008.数据库/001.postgreSQL/drawing/逻辑复制原理.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/主从复制.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/Greenplum.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/Postgre-XL.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/citus.excalidraw.md",
     "007.lims/001.产品文档/assets",
     "007.lims/001.产品文档/drawing",
     "007.lims/001.产品文档",
-    "008.数据库/001.postgreSQL/000.课程说明.md",
-    "008.数据库/001.postgreSQL/drawing/Mycat（分表分库）.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/HA.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/repmgr.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/mycat.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/pgpool读写分离.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing",
     "008.数据库/001.postgreSQL",
-    "008.数据库",
-    "002.AI/002.马士兵-应用开发/003.RAG/drawing",
-    "007.lims/002.技术方案/drawing",
-    "fix_format.py"
+    "008.数据库"
   ]
 }
