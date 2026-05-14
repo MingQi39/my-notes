@@ -243,7 +243,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "9e1a4b798c182e6c",
   "lastOpenFiles": [
     "007.lims/002.技术方案/002.LIMS 全栈技术详解（前端视角版）.md",
     "007.lims/002.技术方案/001.LIMS 技术架构方案.md",
@@ -288,8 +288,8 @@
     "007.lims/001.产品文档/assets",
     "007.lims/001.产品文档/drawing",
     "007.lims/001.产品文档",
-    "008.数据库/001.postgreSQL/drawing",
-    "008.数据库/001.postgreSQL",
-    "008.数据库"
+    "007.数据库/001.postgreSQL/drawing",
+    "007.数据库/001.postgreSQL",
+    "007.数据库"
   ]
 }
