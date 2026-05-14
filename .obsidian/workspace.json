@@ -11,10 +11,14 @@
             "id": "e2ac42eecebe51db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
+                "bFile": "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 001.什么是生成式 AI  (Working Tree)"
             }
           }
         ]
@@ -243,8 +247,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "9e1a4b798c182e6c",
+  "active": "e2ac42eecebe51db",
   "lastOpenFiles": [
+    "未命名.base",
+    "002.AI/001.生成式人工智能导论/001.什么是生成式 AI.md",
     "007.lims/002.技术方案/002.LIMS 全栈技术详解（前端视角版）.md",
     "007.lims/002.技术方案/001.LIMS 技术架构方案.md",
     "007.lims/001.产品文档/需求.md",
@@ -268,7 +274,6 @@
     "002.AI/sitor.ai学习/assets/Pasted image 20260512141239.png",
     "002.AI/sitor.ai学习/assets/Pasted image 20260511113841.png",
     "002.AI/sitor.ai学习/assets/Pasted image 20260511110307.png",
-    "未命名.base",
     "002.AI/sitor.ai学习/001.Agent六大支柱.md",
     "002.AI/sitor.ai学习/assets/Pasted image 20260509110329.png",
     "002.AI/sitor.ai学习/assets",
@@ -282,8 +287,6 @@
     "002.AI/005.learn claude code/001.架构与程序入口.md",
     "002.AI/005.learn claude code/000.Harness Engineering.md",
     "002.AI/000.AI编程相关资源.md",
-    "001.前端/008.前端框架/001.React/002.React18原理/drawing/001.multi-repo vs mono-repo.excalidraw.md",
-    "002.AI/006.源码分析/002.claude code 源码解析.md",
     "007.lims/001.产品文档/drawing/assets",
     "007.lims/001.产品文档/assets",
     "007.lims/001.产品文档/drawing",
