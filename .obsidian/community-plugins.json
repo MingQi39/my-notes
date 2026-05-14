@@ -1,6 +1,5 @@
 [
   "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "claudian",
   "terminal",
@@ -19,5 +18,6 @@
   "easy-typing-obsidian",
   "code-styler",
   "quickadd",
-  "number-headings-obsidian"
+  "number-headings-obsidian",
+  "obsidian-excalidraw-plugin"
 ]
