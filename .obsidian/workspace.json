@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f3313419fd68e258",
+        "id": "4cd07034ca7c1f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "752382e735524e77",
+            "id": "e2ac42eecebe51db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002.AI/sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "7182bae17f9f03f1",
@@ -141,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -249,8 +243,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "752382e735524e77",
+  "active": "815741defb59499f",
   "lastOpenFiles": [
+    "007.lims/002.技术方案/002.LIMS 全栈技术详解（前端视角版）.md",
+    "007.lims/002.技术方案/001.LIMS 技术架构方案.md",
+    "007.lims/001.产品文档/需求.md",
+    "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
+    "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
+    "002.AI/003.优秀实践/002.PDCA(戴明环）与 大模型推理框架ReAct.md",
+    "002.AI/003.优秀实践/003.分词.md",
+    "002.AI/003.优秀实践/004.Agentic Design Patterns ｜ 以ADK为例.md",
+    "002.AI/003.优秀实践/005.RAG与向量数据库.md",
+    "002.AI/003.优秀实践/006.ReAct 与 Plan-and-Execute 设计模式.md",
+    "002.AI/003.优秀实践/007.Agent Skill.md",
+    "002.AI/003.优秀实践/008.Prompt Caching.md",
+    "002.AI/sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
     "002.AI/sitor.ai学习/assets/Pasted image 20260513094159.png",
     "002.AI/sitor.ai学习/assets/Pasted image 20260513094140.png",
     "002.AI/sitor.ai学习/assets/Pasted image 20260512184108.png",
@@ -258,14 +265,12 @@
     "002.AI/sitor.ai学习/assets/Pasted image 20260512183051.png",
     "002.AI/sitor.ai学习/assets/Pasted image 20260512182621.png",
     "002.AI/sitor.ai学习/002.从 ChatBot 到 Agent：一个 while 循环，凭什么让 AI 从\"能聊天\"变成\"能干活\"？.md",
-    "002.AI/sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
     "002.AI/sitor.ai学习/assets/Pasted image 20260512141239.png",
     "002.AI/sitor.ai学习/assets/Pasted image 20260511113841.png",
     "002.AI/sitor.ai学习/assets/Pasted image 20260511110307.png",
     "未命名.base",
     "002.AI/sitor.ai学习/001.Agent六大支柱.md",
     "002.AI/sitor.ai学习/assets/Pasted image 20260509110329.png",
-    "002.AI/sitor.ai学习/assets/Pasted image 20260507154925.png",
     "002.AI/sitor.ai学习/assets",
     "002.AI/sitor.ai学习/000.课程来源.md",
     "002.AI/005.learn claude code/000.目录.md",
@@ -276,21 +281,10 @@
     "002.AI/005.learn claude code/002.系统主循环.md",
     "002.AI/005.learn claude code/001.架构与程序入口.md",
     "002.AI/005.learn claude code/000.Harness Engineering.md",
-    "007.lims/001.产品文档/需求.md",
-    "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
-    "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
     "002.AI/000.AI编程相关资源.md",
     "001.前端/008.前端框架/001.React/002.React18原理/drawing/001.multi-repo vs mono-repo.excalidraw.md",
     "002.AI/006.源码分析/002.claude code 源码解析.md",
-    "002.AI/006.源码分析/assets/一条消息的完整旅程.excalidraw.md",
-    "002.AI/006.源码分析/assets/MCP核心架构.excalidraw.md",
-    "002.AI/006.源码分析/assets/cc整体架构.excalidraw.md",
     "007.lims/001.产品文档/drawing/assets",
-    "002.AI/004.LangChain/003 2.输出解析：让模型返回结构化数据.md",
-    "008.数据库/001.postgreSQL/002.高可用解决方案.md",
-    "008.数据库/001.postgreSQL/001.体系结构.md",
-    "008.数据库/001.postgreSQL/003.主从复制.md",
-    "002.AI/004.LangChain/003.输出解析：让模型返回结构化数据 2.md",
     "007.lims/001.产品文档/assets",
     "007.lims/001.产品文档/drawing",
     "007.lims/001.产品文档",
