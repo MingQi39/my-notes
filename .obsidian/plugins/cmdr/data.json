@@ -8,6 +8,12 @@
       "icon": "lucide-a-arrow-down",
       "name": "Excalidraw: 新建绘图 - 于当前面板",
       "mode": "any"
+    },
+    {
+      "id": "workspace:copy-url",
+      "icon": "lucide-vault",
+      "name": "复制 Obsidian URI",
+      "mode": "any"
     }
   ],
   "fileMenu": [],

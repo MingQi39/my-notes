@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3e2bd93f68967f5",
+        "id": "ac1241818c74d371",
         "type": "tabs",
         "children": [
           {
-            "id": "a96f32deeb8b7ae1",
+            "id": "75dc7db3932a277d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 279.5
   },
   "right": {
     "id": "7182bae17f9f03f1",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
+                "file": "002.AI/009.赋范 AI/001.AI 大模型 API 快速上手指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "原型图.excalidraw 的反向链接列表"
+              "title": "001.AI 大模型 API 快速上手指南 的反向链接列表"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002.AI/009.赋范 AI/001.AI 大模型 API 快速上手指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "001.AI 大模型 API 快速上手指南 的出链列表"
             }
           },
           {
@@ -141,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/000.AI编程相关资源.md",
+                "file": "002.AI/009.赋范 AI/001.AI 大模型 API 快速上手指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "000.AI编程相关资源 的大纲"
+              "title": "001.AI 大模型 API 快速上手指南 的大纲"
             }
           },
           {
@@ -239,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,13 +262,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "a96f32deeb8b7ae1",
+  "active": "815741defb59499f",
   "lastOpenFiles": [
-    "002.AI/008.赋范 AI/001.ttt.ipynb.md",
+    "002.AI/005.learn claude code/002.系统主循环.md",
+    "002.AI/005.learn claude code/001.架构与程序入口.md",
+    "002.AI/005.learn claude code/000.目录.md",
+    "002.AI/005.learn claude code/000.Harness Engineering.md",
     "002.AI/009.赋范 AI/001.AI 大模型 API 快速上手指南.md",
+    "tiktoken.md",
+    "002.AI/009.赋范 AI/assets/Pasted image 20260524174810.png",
+    "002.AI/000.AI编程相关资源.md",
+    "002.AI/009.赋范 AI/001.AI 大模型 API 快速上手指南.ipynb",
+    "002.AI/009.赋范 AI/assets/Pasted image 20260524170103.png",
+    "002.AI/009.赋范 AI/assets",
+    "002.AI/002.马士兵-应用开发/003.RAG/001.Agentic RAG.md",
+    "002.AI/008.赋范 AI/001.ttt.ipynb.md",
     "002.AI/009.赋范 AI",
     "002.AI/008.sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
-    "002.AI/000.AI编程相关资源.md",
     "002.AI/005.learn claude code/009.多 Agent 架构.md",
     "002.AI/005.learn claude code/008.代码编辑策略.md",
     "002.AI/005.learn claude code/007.MCP 运行机制.md",
@@ -290,24 +301,14 @@
     "002.AI/006.源码分析/assets/Pasted image 20260420145411.png",
     "002.AI/006.源码分析/assets/Pasted image 20260420144257.png",
     "002.AI/006.源码分析/assets/Pasted image 20260420143613.png",
-    "002.AI/006.源码分析/assets/Pasted image 20260420140253.png",
-    "002.AI/006.源码分析/assets/Pasted image 20260420112827.png",
     "002.AI/006.源码分析/MCP核心架构.excalidraw.md",
     "002.AI/006.源码分析/002.claude code 源码解析.md",
-    "002.AI/004.LangChain/003.输出解析：让模型返回结构化数据 2.md",
-    "002.AI/004.LangChain/003 2.输出解析：让模型返回结构化数据.md",
     "007.lims/001.产品文档/drawing/assets",
-    "008.数据库/001.postgreSQL/drawing/逻辑结构.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/物理架构.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/应用程序的访问架构.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/存储结构.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing",
     "008.数据库/001.postgreSQL",
     "008.数据库",
     "007.lims/001.产品文档/drawing",
     "007.lims/001.产品文档",
-    "未命名.base",
-    "未命名 1.base",
-    "assets"
+    "未命名.base"
   ]
 }
