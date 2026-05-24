@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c7479af38c9cb82",
+        "id": "f3e2bd93f68967f5",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2a8d07614a36fc",
+            "id": "a96f32deeb8b7ae1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.AI/000.AI编程相关资源.md",
+                "file": "002.AI/009.赋范 AI/001.AI 大模型 API 快速上手指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000.AI编程相关资源"
+              "title": "001.AI 大模型 API 快速上手指南"
             }
           }
         ]
@@ -261,8 +261,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "815741defb59499f",
+  "active": "a96f32deeb8b7ae1",
   "lastOpenFiles": [
+    "002.AI/008.赋范 AI/001.ttt.ipynb.md",
+    "002.AI/009.赋范 AI/001.AI 大模型 API 快速上手指南.md",
+    "002.AI/009.赋范 AI",
+    "002.AI/008.sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
+    "002.AI/000.AI编程相关资源.md",
     "002.AI/005.learn claude code/009.多 Agent 架构.md",
     "002.AI/005.learn claude code/008.代码编辑策略.md",
     "002.AI/005.learn claude code/007.MCP 运行机制.md",
@@ -296,10 +301,6 @@
     "008.数据库/001.postgreSQL/drawing/物理架构.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing/应用程序的访问架构.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing/存储结构.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/存储结构.excalidraw 1.md",
-    "008.数据库/001.postgreSQL/drawing/repmgr.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/pool.excalidraw.md",
-    "008.数据库/001.postgreSQL/drawing/pgpool读写分离.excalidraw.md",
     "008.数据库/001.postgreSQL/drawing",
     "008.数据库/001.postgreSQL",
     "008.数据库",
@@ -307,7 +308,6 @@
     "007.lims/001.产品文档",
     "未命名.base",
     "未命名 1.base",
-    "assets",
-    "002.AI/002.马士兵-应用开发/003.RAG/drawing"
+    "assets"
   ]
 }
