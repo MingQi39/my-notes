@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbf8db57611270d6",
+        "id": "34fdb5208de44cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0d824f9b03857c",
+            "id": "46af69603407bb47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.AI/009.赋范 AI/001.大模型 API 快速上手指南.md",
+                "file": "002.AI/010.AI Agent 学习/003.向量数据库实战：为什么 AI Agent 离不开 Milvus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.大模型 API 快速上手指南"
+              "title": "003.向量数据库实战：为什么 AI Agent 离不开 Milvus"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/009.赋范 AI/001.大模型 API 快速上手指南.md",
+                "file": "002.AI/010.AI Agent 学习/003.向量数据库实战：为什么 AI Agent 离不开 Milvus.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001.大模型 API 快速上手指南 的大纲"
+              "title": "003.向量数据库实战：为什么 AI Agent 离不开 Milvus 的大纲"
             }
           },
           {
@@ -226,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 218.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,27 +250,32 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
+    "002.AI/010.AI Agent 学习/002.做 RAG 不能只会检索：为什么 Loader 和 Splitter 才是知识库入库的第一步.md",
+    "002.AI/010.AI Agent 学习/003.向量数据库实战：为什么 AI Agent 离不开 Milvus.md",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602111351.png",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602110908.png",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602110657.png",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602110540.png",
+    "002.AI/010.AI Agent 学习/001. 为什么 RAG 一定离不开向量检索：从文档向量化到语义搜索的工程实现.md",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602104801.png",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602104615.png",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602104429.png",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602104322.png",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602103815.png",
+    "002.AI/010.AI Agent 学习/assets",
+    "002.AI/003.优秀实践/001.实现一个 Mini Claude Code：从底层理解 AI Agent.md",
+    "002.AI/009.赋范 AI/001.大模型 API 快速上手指南.md",
+    "002.AI/010.AI Agent 学习",
     "001.前端/014.AI Coding/002.Skills篇.md",
     "001.前端/014.AI Coding/001.架构篇.md",
     "002.AI/003.优秀实践/002.PDCA(戴明环）与 大模型推理框架ReAct.md",
-    "002.AI/003.优秀实践/001.实现一个 Mini Claude Code：从底层理解 AI Agent.md",
     "002.AI/007.日常使用/002.Cursor 一年深度开发实践.md",
     "002.AI/007.日常使用/001.用 AI 重构屎山代码.md",
     "未命名 1.base",
     "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
     "002.AI/009.赋范 AI/assets/Pasted image 20260524174810.png",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260524170103.png",
     "002.AI/009.赋范 AI/assets",
-    "002.AI/009.赋范 AI/001.大模型 API 快速上手指南.md",
     "002.AI/009.赋范 AI",
-    "002.AI/008.sitor.ai学习/assets/Pasted image 20260513094159.png",
-    "002.AI/008.sitor.ai学习/assets/Pasted image 20260512184108.png",
-    "002.AI/008.sitor.ai学习/assets/Pasted image 20260513094140.png",
-    "002.AI/008.sitor.ai学习/assets/Pasted image 20260512183758.png",
-    "002.AI/008.sitor.ai学习/assets/Pasted image 20260512183051.png",
-    "002.AI/008.sitor.ai学习/assets/Pasted image 20260512182621.png",
-    "002.AI/008.sitor.ai学习/assets/Pasted image 20260512141239.png",
-    "002.AI/008.sitor.ai学习/assets/Pasted image 20260511113841.png",
     "002.AI/008.sitor.ai学习/assets",
     "002.AI/008.sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
     "002.AI/008.sitor.ai学习/002.从 ChatBot 到 Agent：一个 while 循环，凭什么让 AI 从\"能聊天\"变成\"能干活\"？.md",
@@ -289,12 +294,7 @@
     "002.AI/003.优秀实践/004.Agentic Design Patterns ｜ 以ADK为例.md",
     "002.AI/003.优秀实践/005.RAG与向量数据库.md",
     "002.AI/003.优秀实践/007.Agent Skill.md",
-    "002.AI/003.优秀实践/008.Prompt Caching.md",
-    "002.AI/sitor.ai学习/003.做 Agent 开发，有些大模型本身的底层机制，你不得不了解.md",
-    "002.AI/sitor.ai学习/002.从 ChatBot 到 Agent：一个 while 循环，凭什么让 AI 从\"能聊天\"变成\"能干活\"？.md",
     "002.AI/sitor.ai学习/assets",
-    "002.AI/sitor.ai学习",
-    "007.lims/001.产品文档/drawing/assets",
-    "007.lims/001.产品文档/assets"
+    "002.AI/sitor.ai学习"
   ]
 }
