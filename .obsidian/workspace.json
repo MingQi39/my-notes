@@ -11,14 +11,10 @@
             "id": "46af69603407bb47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002.AI/010.AI Agent 学习/003.向量数据库实战：为什么 AI Agent 离不开 Milvus.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "003.向量数据库实战：为什么 AI Agent 离不开 Milvus"
+              "title": "新标签页"
             }
           }
         ]
@@ -140,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/010.AI Agent 学习/003.向量数据库实战：为什么 AI Agent 离不开 Milvus.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.向量数据库实战：为什么 AI Agent 离不开 Milvus 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -226,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 244.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,18 +245,23 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
-    "002.AI/010.AI Agent 学习/002.做 RAG 不能只会检索：为什么 Loader 和 Splitter 才是知识库入库的第一步.md",
+    "002.AI/010.AI Agent 学习/未命名.md",
+    "002.AI/010.AI Agent 学习/006.结构化输出别再只盯着 Output Parser：工程上为什么更该默认用 Tool.md",
+    "002.AI/010.AI Agent 学习/005.AI 应用里的 Memory，不是“保存聊天记录”，而是管理上下文预算.md",
+    "002.AI/010.AI Agent 学习/004.Milvus 不只是“把向量存进去”：从电子书语义检索到可落地 RAG 系统的工程拆解.md",
     "002.AI/010.AI Agent 学习/003.向量数据库实战：为什么 AI Agent 离不开 Milvus.md",
+    "002.AI/010.AI Agent 学习/002.做 RAG 不能只会检索：为什么 Loader 和 Splitter 才是知识库入库的第一步.md",
+    "002.AI/010.AI Agent 学习/001. 为什么 RAG 一定离不开向量检索：从文档向量化到语义搜索的工程实现.md",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602141124.png",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602131334.png",
+    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602125503.png",
     "002.AI/010.AI Agent 学习/assets/Pasted image 20260602111351.png",
     "002.AI/010.AI Agent 学习/assets/Pasted image 20260602110908.png",
     "002.AI/010.AI Agent 学习/assets/Pasted image 20260602110657.png",
     "002.AI/010.AI Agent 学习/assets/Pasted image 20260602110540.png",
-    "002.AI/010.AI Agent 学习/001. 为什么 RAG 一定离不开向量检索：从文档向量化到语义搜索的工程实现.md",
     "002.AI/010.AI Agent 学习/assets/Pasted image 20260602104801.png",
     "002.AI/010.AI Agent 学习/assets/Pasted image 20260602104615.png",
     "002.AI/010.AI Agent 学习/assets/Pasted image 20260602104429.png",
-    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602104322.png",
-    "002.AI/010.AI Agent 学习/assets/Pasted image 20260602103815.png",
     "002.AI/010.AI Agent 学习/assets",
     "002.AI/003.优秀实践/001.实现一个 Mini Claude Code：从底层理解 AI Agent.md",
     "002.AI/009.赋范 AI/001.大模型 API 快速上手指南.md",
@@ -273,7 +273,6 @@
     "002.AI/007.日常使用/001.用 AI 重构屎山代码.md",
     "未命名 1.base",
     "005.综合/001.程序员修炼之道：从小工到专家的完整指南.md",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260524174810.png",
     "002.AI/009.赋范 AI/assets",
     "002.AI/009.赋范 AI",
     "002.AI/008.sitor.ai学习/assets",
@@ -290,10 +289,6 @@
     "007.lims/001.产品文档/需求.md",
     "007.lims/001.产品文档/drawing/原型图.excalidraw.md",
     "007.lims/001.产品文档/drawing/原型图1.excalidraw.md",
-    "002.AI/003.优秀实践/003.分词.md",
-    "002.AI/003.优秀实践/004.Agentic Design Patterns ｜ 以ADK为例.md",
-    "002.AI/003.优秀实践/005.RAG与向量数据库.md",
-    "002.AI/003.优秀实践/007.Agent Skill.md",
     "002.AI/sitor.ai学习/assets",
     "002.AI/sitor.ai学习"
   ]
