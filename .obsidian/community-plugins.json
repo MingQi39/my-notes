@@ -1,7 +1,6 @@
 [
   "table-editor-obsidian",
   "obsidian-git",
-  "claudian",
   "terminal",
   "calendar",
   "obsidian-version-history-diff",
@@ -20,5 +19,7 @@
   "quickadd",
   "number-headings-obsidian",
   "obsidian-excalidraw-plugin",
-  "jupymd"
+  "jupymd",
+  "obsidian42-brat",
+  "opencode-obsidian"
 ]

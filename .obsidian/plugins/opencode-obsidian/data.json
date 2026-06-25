@@ -1,0 +1,13 @@
+{
+  "port": 14096,
+  "hostname": "127.0.0.1",
+  "autoStart": true,
+  "opencodePath": "/Users/houmingqi/.nvm/versions/node/v24.15.0/bin/opencode",
+  "startupTimeout": 45000,
+  "defaultViewLocation": "sidebar",
+  "injectWorkspaceContext": false,
+  "maxNotesInContext": 20,
+  "maxSelectionLength": 2000,
+  "customCommand": "",
+  "useCustomCommand": false
+}
