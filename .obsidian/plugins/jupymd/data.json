@@ -1,8 +1,0 @@
-{
-  "autoSync": true,
-  "bidirectionalSync": false,
-  "autoConvertToNotebookOnRun": true,
-  "pythonInterpreter": "/Users/mingqi/Desktop/03-学习资料/hmq/my-notes/.jupymd/bin/python",
-  "notebookEditorCommand": "jupyter-lab",
-  "enableCodeBlocks": true
-}
