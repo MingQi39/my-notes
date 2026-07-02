@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67abd85ee60f0fa4",
+        "id": "5082f1a023b3445a",
         "type": "tabs",
         "children": [
           {
-            "id": "e30db788a201d8d4",
+            "id": "41c0b1b804d0dc93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.AI/009.赋范 AI/003. 大模型 Agent 基础入门实战.md",
-                "mode": "preview",
-                "source": true
+                "file": "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "003. 大模型 Agent 基础入门实战"
+              "title": "001.LangChain v1.0 基础入门"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002.AI/009.赋范 AI/003. 大模型 Agent 基础入门实战.md",
+                "file": "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "003. 大模型 Agent 基础入门实战 的反向链接列表"
+              "title": "001.LangChain v1.0 基础入门 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002.AI/009.赋范 AI/003. 大模型 Agent 基础入门实战.md",
+                "file": "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "003. 大模型 Agent 基础入门实战 的出链列表"
+              "title": "001.LangChain v1.0 基础入门 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/009.赋范 AI/003. 大模型 Agent 基础入门实战.md",
+                "file": "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003. 大模型 Agent 基础入门实战 的大纲"
+              "title": "001.LangChain v1.0 基础入门 的大纲"
             }
           },
           {
@@ -215,7 +215,7 @@
             }
           },
           {
-            "id": "d9a18a776064ef8d",
+            "id": "c842bad4beee2c2d",
             "type": "leaf",
             "state": {
               "type": "opencode-view",
@@ -229,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 554.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,7 +245,6 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "claudian:Open Claudian": false,
       "terminal:Open terminal": false,
       "callout-manager:Insert Callout": false,
       "oz-clear-unused-images:Clear Unused Images": false,
@@ -255,31 +254,40 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
-    "002.AI/009.赋范 AI/002.大模型本地部署基础.md",
+    "008.每日记录/2026/06/2026-06-25.md",
+    "008.每日记录/2026/06/2026-06-26.md",
+    "009.AI知识库/raw/知乎/行业洞察/王果ai-Loop工程讨论.md",
+    "009.AI知识库/raw/知乎/行业洞察/assets/07-四层嵌套链.jpg",
+    "009.AI知识库/raw/知乎/行业洞察/assets/06-Loop工程.jpg",
+    "009.AI知识库/raw/知乎/行业洞察/assets/05-maker-checker分离.jpg",
+    "009.AI知识库/raw/知乎/行业洞察/assets/04-Harness工程.jpg",
+    "009.AI知识库/raw/知乎/行业洞察/assets/03-Context工程.jpg",
+    "009.AI知识库/raw/知乎/行业洞察/assets/02-Prompt工程.jpg",
+    "009.AI知识库/raw/知乎/行业洞察/assets/01-ReAct起源.jpg",
+    "009.AI知识库/raw/知乎/行业洞察/assets",
+    "009.AI知识库/assets/知乎/Loop工程讨论/01-ReAct起源.jpg",
+    "009.AI知识库/wiki/行业洞察/AI-Agent工程四层演进.md",
+    "009.AI知识库/assets/知乎/Loop工程讨论/04-Harness工程.jpg",
+    "009.AI知识库/assets/知乎/Loop工程讨论/06-Loop工程.jpg",
+    "009.AI知识库/assets/知乎/Loop工程讨论",
+    "009.AI知识库/assets/知乎",
+    "008.每日记录/2026/06/2026-06-30.md",
+    "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
+    "009.AI知识库/wiki/行业洞察",
+    "009.AI知识库/raw/知乎/行业洞察",
+    "009.AI知识库/raw/知乎",
     "002.AI/009.赋范 AI/001.大模型 API 快速上手指南.md",
+    "002.AI/009.赋范 AI/003. 大模型 Agent 基础入门实战.md",
+    "008.每日记录/2026/06/2026-06-29.md",
+    "002.AI/009.赋范 AI/002.大模型本地部署基础.md",
     "006.职场实践/001.代码片段/004.react/001.文本省略显示 Tooltip.md",
     "002.AI/005.learn claude code/005.工具系统.md",
-    "008.每日记录/2026/06/2026-06-29.md",
-    "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
-    "002.AI/009.赋范 AI/003. 大模型 Agent 基础入门实战.md",
     "002.AI/005.learn claude code/002.系统主循环.md",
     "002.AI/005.learn claude code/011.权限与安全.md",
     "002.AI/005.learn claude code/012.用户体验设计.md",
     "002.AI/006.源码分析/002.claude code 源码解析.md",
     "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解",
-    "008.每日记录/2026/06/2026-06-26.md",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260626164709.png",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260626145659.png",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260626145239.png",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260626144101.png",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260626143928.png",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260626143735.png",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260626110451.png",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260626102813.png",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260626102752.png",
-    "008.每日记录/2026/06/2026-06-25.md",
     "模板/每日记录模板.md",
-    "002.AI/009.赋范 AI/assets/Pasted image 20260625163129.png",
     "未命名.md",
     "模板",
     "009.AI知识库/scripts/stop-opencode-serve.sh",
@@ -290,16 +298,6 @@
     "003.工具/003.Obsidian/003.快捷键.md",
     "wiki/使用指南.md",
     "009.AI知识库/wiki/使用指南.md",
-    "009.AI知识库/wiki/log.md",
-    "009.AI知识库/wiki/index.md",
-    "009.AI知识库/scripts/organize-social-assets.sh",
-    "009.AI知识库/wiki",
-    "009.AI知识库/scripts",
-    "009.AI知识库/raw",
-    "009.AI知识库/assets",
-    "009.AI知识库/AI_CONFIG.md",
-    "009.AI知识库/AGENTS.md",
-    "009.AI知识库",
-    "wiki/log.md"
+    "009.AI知识库/wiki/log.md"
   ]
 }

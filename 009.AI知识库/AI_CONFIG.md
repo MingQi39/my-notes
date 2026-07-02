@@ -114,10 +114,9 @@ modified: 2026-06-25 11:00
 
 <!-- user-custom-rules-start -->
 
-<!-- 在这里写你的自定义规则。例如： -->
-<!-- - 所有笔记必须包含 Summary 段落 -->
-<!-- - 消费研究类笔记必须包含价格区间 -->
-<!-- - 跳过 credibility 为 low 的素材 -->
-<!-- - wiki 文章末尾必须列出 Sources -->
+- raw 文件必须将 HTML 转换为 Markdown：`<h2>/<h3>` → `##`/`###`，`<b>` → `**`，`<code>` → `` ` ``，`<blockquote>` → `>`，`<pre><code>` → ` ``` `，`<table>` → 表格，`<ul>/<ol>/<li>` → 列表。确保 Obsidian 可正常渲染。
+- 配图存在 raw 文件同级 `assets/` 子目录下（如 `raw/知乎/行业洞察/assets/`），raw 内引用路径用 `assets/xxx.jpg`。
+- wiki 文章末尾必须列出 Sources，链接到本地 raw 文件。
+- ingest 文章时，如果文章正文中引用了其他文章的链接（如参考链接、延伸阅读等），跟随引用链接抓取内容，一并存入 raw 并消化为 wiki。
 
 <!-- user-custom-rules-end -->
