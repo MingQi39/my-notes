@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
+                "file": "009.AI知识库/wiki/技能方法/企业级后端架构全景.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.LangChain v1.0 基础入门"
+              "title": "企业级后端架构全景"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
+                "file": "009.AI知识库/wiki/技能方法/企业级后端架构全景.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "001.LangChain v1.0 基础入门 的大纲"
+              "title": "企业级后端架构全景 的大纲"
             }
           },
           {
@@ -254,6 +254,13 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
+    "009.AI知识库/raw/技能方法/企业级后端架构全景.md",
+    "009.AI知识库/wiki/行业洞察/AI-Agent工程四层演进.md",
+    "009.AI知识库/wiki/技能方法/企业级后端架构全景.md",
+    "009.AI知识库/wiki/使用指南.md",
+    "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
+    "009.AI知识库/wiki/技能方法",
+    "009.AI知识库/raw/技能方法",
     "008.每日记录/2026/06/2026-06-25.md",
     "008.每日记录/2026/06/2026-06-26.md",
     "009.AI知识库/raw/知乎/行业洞察/王果ai-Loop工程讨论.md",
@@ -266,13 +273,11 @@
     "009.AI知识库/raw/知乎/行业洞察/assets/01-ReAct起源.jpg",
     "009.AI知识库/raw/知乎/行业洞察/assets",
     "009.AI知识库/assets/知乎/Loop工程讨论/01-ReAct起源.jpg",
-    "009.AI知识库/wiki/行业洞察/AI-Agent工程四层演进.md",
     "009.AI知识库/assets/知乎/Loop工程讨论/04-Harness工程.jpg",
     "009.AI知识库/assets/知乎/Loop工程讨论/06-Loop工程.jpg",
     "009.AI知识库/assets/知乎/Loop工程讨论",
     "009.AI知识库/assets/知乎",
     "008.每日记录/2026/06/2026-06-30.md",
-    "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
     "009.AI知识库/wiki/行业洞察",
     "009.AI知识库/raw/知乎/行业洞察",
     "009.AI知识库/raw/知乎",
@@ -290,14 +295,10 @@
     "模板/每日记录模板.md",
     "未命名.md",
     "模板",
-    "009.AI知识库/scripts/stop-opencode-serve.sh",
-    "009.AI知识库/scripts/start-opencode-serve.sh",
     "AI_CONFIG.md",
     "AGENTS.md",
     "009.AI知识库/index.md",
     "003.工具/003.Obsidian/003.快捷键.md",
-    "wiki/使用指南.md",
-    "009.AI知识库/wiki/使用指南.md",
-    "009.AI知识库/wiki/log.md"
+    "wiki/使用指南.md"
   ]
 }
