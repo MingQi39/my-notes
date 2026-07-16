@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.AI/009.赋范 AI/005.大模型 RAG 入门/003.大模型 RAG 文档切分进阶实战.md",
+                "file": "002.AI/009.赋范 AI/005.大模型 RAG 入门/004.大模型 RAG 嵌入向量数据库实战.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003.大模型 RAG 文档切分进阶实战"
+              "title": "004.大模型 RAG 嵌入向量数据库实战"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.AI/009.赋范 AI/005.大模型 RAG 入门/003.大模型 RAG 文档切分进阶实战.md",
+                "file": "002.AI/009.赋范 AI/005.大模型 RAG 入门/004.大模型 RAG 嵌入向量数据库实战.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003.大模型 RAG 文档切分进阶实战 的大纲"
+              "title": "004.大模型 RAG 嵌入向量数据库实战 的大纲"
             }
           },
           {
@@ -254,23 +254,24 @@
   },
   "active": "815741defb59499f",
   "lastOpenFiles": [
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716144258.png",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716141933.png",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716141712.png",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716104319.png",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716101031.png",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716100556.png",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/002.大模型 RAG 进阶多格式文档解析.md",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716174135.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716174007.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716173953.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716173745.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716173529.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716173256.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716173239.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716161934.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716161206.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716161017.png",
     "002.AI/009.赋范 AI/005.大模型 RAG 入门/003.大模型 RAG 文档切分进阶实战.md",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260715180023.png",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260715175856.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/004.大模型 RAG 嵌入向量数据库实战.md",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260716144258.png",
+    "002.AI/009.赋范 AI/005.大模型 RAG 入门/002.大模型 RAG 进阶多格式文档解析.md",
     "002.AI/009.赋范 AI/005.大模型 RAG 入门/001.大模型 RAG 入门基础架构介绍.md",
     "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/004.DeepAgents 框架介绍与应用实战.md",
     "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/003.Agent 智能体中间件应用实战.md",
     "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/002.LangChain v1.0 框架搭建智能体 Agent.md",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260715154027.png",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260715153520.png",
-    "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets/Pasted image 20260715151935.png",
     "002.AI/009.赋范 AI/005.大模型 RAG 入门/assets",
     "002.AI/009.赋范 AI/005.大模型 RAG 入门",
     "002.AI/009.赋范 AI/004.LangChain 1.0 体系讲解/001.LangChain v1.0 基础入门.md",
@@ -298,7 +299,6 @@
     "002.AI/005.learn claude code/005.工具系统.md",
     "002.AI/005.learn claude code/002.系统主循环.md",
     "002.AI/005.learn claude code/011.权限与安全.md",
-    "002.AI/005.learn claude code/012.用户体验设计.md",
-    "002.AI/006.源码分析/002.claude code 源码解析.md"
+    "002.AI/005.learn claude code/012.用户体验设计.md"
   ]
 }
