@@ -18,3 +18,10 @@
 - Wiki: 009.AI知识库/wiki/技能方法/企业级后端架构全景.md
 - Action: created new wiki article
 - Content type: 教程攻略 | Credibility: high
+
+## 2026-09-09 ingest | Docker 镜像瘦身：从 2.3GB 到 82MB
+- Source: Juejin | badhope | domain: 技能方法
+- Raw: 009.AI知识库/raw/技能方法/Docker镜像瘦身术.md
+- Wiki: 009.AI知识库/wiki/技能方法/Docker镜像瘦身.md
+- Action: created new wiki article
+- Content type: 教程攻略 | Credibility: medium
